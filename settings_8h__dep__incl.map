@@ -1,0 +1,35 @@
+<map id="src/util/settings.h" name="src/util/settings.h">
+<area shape="rect" id="node2" href="$Frame_8h.html" title="src/DataStructures\l/Frame.h" alt="" coords="1381,171,1512,213"/>
+<area shape="rect" id="node6" href="$DepthMap_8cpp.html" title="src/DepthEstimation\l/DepthMap.cpp" alt="" coords="5,262,145,303"/>
+<area shape="rect" id="node10" href="$ROSOutput3DWrapper_8cpp.html" title="src/IOWrapper/ROS/ROSOutput3\lDWrapper.cpp" alt="" coords="2377,262,2596,303"/>
+<area shape="rect" id="node17" href="$DepthMap_8h.html" title="src/DepthEstimation\l/DepthMap.h" alt="" coords="713,171,853,213"/>
+<area shape="rect" id="node18" href="$DepthMapPixelHypothesis_8h.html" title="src/DepthEstimation\l/DepthMapPixelHypothesis.h" alt="" coords="335,171,527,213"/>
+<area shape="rect" id="node19" href="$TrackableKeyFrameSearch_8h.html" title="src/GlobalMapping/Trackable\lKeyFrameSearch.h" alt="" coords="1589,171,1779,213"/>
+<area shape="rect" id="node20" href="$ROSImageStreamThread_8cpp.html" title="src/IOWrapper/ROS/ROSImage\lStreamThread.cpp" alt="" coords="2811,81,3020,122"/>
+<area shape="rect" id="node21" href="$rosReconfigure_8h.html" title="src/IOWrapper/ROS/rosReconfigure.h" alt="" coords="2575,179,2817,205"/>
+<area shape="rect" id="node22" href="$main__live__odometry_8cpp.html" title="src/main_live_odometry.cpp" alt="" coords="3037,269,3221,296"/>
+<area shape="rect" id="node23" href="$main__on__images_8cpp.html" title="src/main_on_images.cpp" alt="" coords="3246,269,3412,296"/>
+<area shape="rect" id="node24" href="$SlamSystem_8h.html" title="src/SlamSystem.h" alt="" coords="2369,179,2499,205"/>
+<area shape="rect" id="node26" href="$Relocalizer_8h.html" title="src/Tracking/Relocalizer.h" alt="" coords="2229,88,2403,115"/>
+<area shape="rect" id="node27" href="$globalFuncs_8h.html" title="src/util/globalFuncs.h" alt="" coords="2007,179,2153,205"/>
+<area shape="rect" id="node28" href="$SE3Tracker_8h.html" title="src/Tracking/SE3Tracker.h" alt="" coords="1804,179,1983,205"/>
+<area shape="rect" id="node29" href="$Sim3Tracker_8h.html" title="src/Tracking/Sim3Tracker.h" alt="" coords="1122,179,1304,205"/>
+<area shape="rect" id="node30" href="$TrackingReference_8h.html" title="src/Tracking/TrackingReference.h" alt="" coords="879,179,1097,205"/>
+<area shape="rect" id="node31" href="$LGSX_8h.html" title="src/Tracking/LGSX.h" alt="" coords="1484,88,1628,115"/>
+<area shape="rect" id="node32" href="$IndexThreadReduce_8h.html" title="src/util/IndexThreadReduce.h" alt="" coords="947,88,1140,115"/>
+<area shape="rect" id="node33" href="$settings_8cpp.html" title="src/util/settings.cpp" alt="" coords="3045,88,3180,115"/>
+<area shape="rect" id="node34" href="$Undistorter_8cpp.html" title="src/util/Undistorter.cpp" alt="" coords="3205,88,3359,115"/>
+<area shape="rect" id="node3" href="$Frame_8cpp.html" title="src/DataStructures\l/Frame.cpp" alt="" coords="171,262,303,303"/>
+<area shape="rect" id="node4" href="$FrameMemory_8cpp.html" title="src/DataStructures\l/FrameMemory.cpp" alt="" coords="1215,262,1349,303"/>
+<area shape="rect" id="node5" href="$FramePoseStruct_8cpp.html" title="src/DataStructures\l/FramePoseStruct.cpp" alt="" coords="1038,262,1191,303"/>
+<area shape="rect" id="node7" href="$DepthMapPixelHypothesis_8cpp.html" title="src/DepthEstimation\l/DepthMapPixelHypothesis.cpp" alt="" coords="327,262,533,303"/>
+<area shape="rect" id="node8" href="$KeyFrameGraph_8cpp.html" title="src/GlobalMapping/KeyFrame\lGraph.cpp" alt="" coords="1975,262,2169,303"/>
+<area shape="rect" id="node9" href="$TrackableKeyFrameSearch_8cpp.html" title="src/GlobalMapping/Trackable\lKeyFrameSearch.cpp" alt="" coords="1759,262,1949,303"/>
+<area shape="rect" id="node11" href="$SlamSystem_8cpp.html" title="src/SlamSystem.cpp" alt="" coords="1375,269,1519,296"/>
+<area shape="rect" id="node12" href="$Relocalizer_8cpp.html" title="src/Tracking/Relocalizer.cpp" alt="" coords="2621,269,2808,296"/>
+<area shape="rect" id="node13" href="$SE3Tracker_8cpp.html" title="src/Tracking/SE3Tracker.cpp" alt="" coords="1543,269,1735,296"/>
+<area shape="rect" id="node14" href="$Sim3Tracker_8cpp.html" title="src/Tracking/Sim3Tracker.cpp" alt="" coords="816,269,1013,296"/>
+<area shape="rect" id="node15" href="$TrackingReference_8cpp.html" title="src/Tracking/TrackingReference.cpp" alt="" coords="558,269,791,296"/>
+<area shape="rect" id="node16" href="$globalFuncs_8cpp.html" title="src/util/globalFuncs.cpp" alt="" coords="2193,269,2352,296"/>
+<area shape="rect" id="node25" href="$LiveSLAMWrapper_8cpp.html" title="src/LiveSLAMWrapper.cpp" alt="" coords="2833,269,3012,296"/>
+</map>

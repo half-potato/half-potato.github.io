@@ -1,0 +1,6 @@
+<map id="lsd_slam::Frame::refPixelWasGood" name="lsd_slam::Frame::refPixelWasGood">
+<area shape="rect" id="node2" href="$classlsd__slam_1_1Frame.html#a3f14a1c43b6cb21d31274f880b0bf36b" title="lsd_slam::Frame::width" alt="" coords="229,5,387,32"/>
+<area shape="rect" id="node3" href="$classlsd__slam_1_1Frame.html#a014d19bf6ffba0f0c0b8b684f9afb0b0" title="lsd_slam::Frame::height" alt="" coords="227,56,389,83"/>
+<area shape="rect" id="node4" href="$classlsd__slam_1_1FrameMemory.html#adf4afed8c58a420b38e4b117628ac32d" title="lsd_slam::FrameMemory\l::getInstance" alt="" coords="225,107,391,149"/>
+<area shape="rect" id="node5" href="$classlsd__slam_1_1FrameMemory.html#abd3eb8d2623e977f3da91416d66d01e3" title="lsd_slam::FrameMemory\l::getBuffer" alt="" coords="225,173,391,214"/>
+</map>

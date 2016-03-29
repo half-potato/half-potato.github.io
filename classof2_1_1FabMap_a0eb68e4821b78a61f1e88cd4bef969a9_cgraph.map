@@ -1,0 +1,10 @@
+<map id="of2::FabMap::compareImgDescriptor" name="of2::FabMap::compareImgDescriptor">
+<area shape="rect" id="node2" href="$classof2_1_1FabMap.html#a6b91cd2eb5ef40dcfaeebda8428ef4ca" title="of2::FabMap::getNewPlace\lLikelihood" alt="" coords="311,142,492,183"/>
+<area shape="rect" id="node7" href="$classof2_1_1FabMap.html#a9666c07f1ce24f4da897d631c1c48ee5" title="of2::FabMap::getLikelihoods" alt="" coords="563,208,749,235"/>
+<area shape="rect" id="node9" href="$classof2_1_1FabMap.html#a8a189e3ab28c98f8b599e8ef57609d23" title="of2::FabMap::normaliseDistribution" alt="" coords="289,259,514,285"/>
+<area shape="rect" id="node3" href="$classof2_1_1FabMap.html#ac1aee23d3571915728cd1c4820ae5bcd" title="of2::FabMap::Pzq" alt="" coords="593,107,719,133"/>
+<area shape="rect" id="node4" href="$classof2_1_1FabMap.html#ab1b431a81b66fa64cd32ba2738855c92" title="of2::FabMap::PzqGeq" alt="" coords="581,157,731,184"/>
+<area shape="rect" id="node5" href="$classof2_1_1FabMap.html#a764248a90dbf7a4c7d74e4faa4031a61" title="of2::FabMap::pq" alt="" coords="597,5,715,32"/>
+<area shape="rect" id="node6" href="$classof2_1_1FabMap.html#a9621ee6393d8b9ec8c580f10576f32ec" title="of2::FabMap::PzqGzpq" alt="" coords="577,56,735,83"/>
+<area shape="rect" id="node8" href="$thirdparty_2openFabMap_2src_2FabMap_8cpp.html#ab1ee3cc2f92080193f7332ac10a30f0a" title="logsumexp" alt="" coords="613,259,699,285"/>
+</map>

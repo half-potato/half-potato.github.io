@@ -1,0 +1,11 @@
+<map id="lsd_slam::DepthMap::initializeFromGTDepth" name="lsd_slam::DepthMap::initializeFromGTDepth">
+<area shape="rect" id="node2" href="$classlsd__slam_1_1Frame.html#abe0ec6e93823ae0a31e73100a8b73940" title="lsd_slam::Frame::hasIDepth\lBeenSet" alt="" coords="213,5,400,46"/>
+<area shape="rect" id="node3" href="$classlsd__slam_1_1Frame.html#af73ccb75e1e449d9a8f2044246ee3530" title="lsd_slam::Frame::getActiveLock" alt="" coords="448,133,659,160"/>
+<area shape="rect" id="node6" href="$classlsd__slam_1_1Frame.html#a9306307027bbe62b973c0b138216b456" title="lsd_slam::Frame::image" alt="" coords="225,121,388,148"/>
+<area shape="rect" id="node7" href="$classlsd__slam_1_1Frame.html#ad78d873de1adfd4ab3268c50b1d462c7" title="lsd_slam::Frame::idepth" alt="" coords="225,172,388,199"/>
+<area shape="rect" id="node8" href="$classlsd__slam_1_1Frame.html#aa869fc645781090678dc61399ef26f73" title="lsd_slam::Frame::setDepth" alt="" coords="217,223,397,249"/>
+<area shape="rect" id="node4" href="$classlsd__slam_1_1FrameMemory.html#adf4afed8c58a420b38e4b117628ac32d" title="lsd_slam::FrameMemory\l::getInstance" alt="" coords="707,182,874,223"/>
+<area shape="rect" id="node5" href="$classlsd__slam_1_1FrameMemory.html#a6835f2a14358dee3518d9f9bff8526e3" title="lsd_slam::FrameMemory\l::activateFrame" alt="" coords="707,117,874,158"/>
+<area shape="rect" id="node9" href="$classlsd__slam_1_1FrameMemory.html#a5a2a621821958fe136a2ddc9707a1f72" title="lsd_slam::FrameMemory\l::getFloatBuffer" alt="" coords="470,245,637,286"/>
+<area shape="rect" id="node10" href="$classlsd__slam_1_1FrameMemory.html#abd3eb8d2623e977f3da91416d66d01e3" title="lsd_slam::FrameMemory\l::getBuffer" alt="" coords="707,247,874,289"/>
+</map>

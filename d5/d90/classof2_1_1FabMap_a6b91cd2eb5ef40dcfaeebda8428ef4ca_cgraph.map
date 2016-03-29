@@ -1,0 +1,8 @@
+<map id="of2::FabMap::getNewPlaceLikelihood" name="of2::FabMap::getNewPlaceLikelihood">
+<area shape="rect" id="node2" href="$d5/d90/classof2_1_1FabMap.html#ac1aee23d3571915728cd1c4820ae5bcd" title="of2::FabMap::Pzq" alt="" coords="265,5,391,32"/>
+<area shape="rect" id="node3" href="$d5/d90/classof2_1_1FabMap.html#ab1b431a81b66fa64cd32ba2738855c92" title="of2::FabMap::PzqGeq" alt="" coords="253,56,403,83"/>
+<area shape="rect" id="node4" href="$d5/d90/classof2_1_1FabMap.html#a764248a90dbf7a4c7d74e4faa4031a61" title="of2::FabMap::pq" alt="" coords="269,107,387,133"/>
+<area shape="rect" id="node5" href="$d5/d90/classof2_1_1FabMap.html#a9621ee6393d8b9ec8c580f10576f32ec" title="of2::FabMap::PzqGzpq" alt="" coords="249,157,407,184"/>
+<area shape="rect" id="node6" href="$d5/d90/classof2_1_1FabMap.html#a9666c07f1ce24f4da897d631c1c48ee5" title="of2::FabMap::getLikelihoods" alt="" coords="235,208,421,235"/>
+<area shape="rect" id="node7" href="$d5/dc1/thirdparty_2openFabMap_2src_2FabMap_8cpp.html#ab1ee3cc2f92080193f7332ac10a30f0a" title="logsumexp" alt="" coords="285,259,371,285"/>
+</map>

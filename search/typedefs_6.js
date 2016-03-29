@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['rxso3d',['RxSO3d',['../d4/d93/namespaceSophus.html#a65d2c9153204ffcda4227d3b38be8eca',1,'Sophus']]],
+  ['rxso3f',['RxSO3f',['../d4/d93/namespaceSophus.html#a5027bfd8c6077f3c5f15efdafdaab755',1,'Sophus']]],
+  ['rxso3reference',['RxSO3Reference',['../d6/db5/classSophus_1_1Sim3GroupBase.html#a12827cf23c0ef3b94adbb088e8be891e',1,'Sophus::Sim3GroupBase::RxSO3Reference()'],['../de/d0b/classSophus_1_1Sim3Group.html#a0010f4f99876a2165913382fa69117d8',1,'Sophus::Sim3Group::RxSO3Reference()'],['../da/d16/classEigen_1_1Map_3_01Sophus_1_1Sim3Group_3_01__Scalar_01_4_00_01__Options_01_4.html#a1125dae9dde0a4f3394e10bd952808e1',1,'Eigen::Map&lt; Sophus::Sim3Group&lt; _Scalar &gt;, _Options &gt;::RxSO3Reference()']]],
+  ['rxso3type',['RxSO3Type',['../dd/d73/structEigen_1_1internal_1_1traits_3_01Sophus_1_1Sim3Group_3_01__Scalar_00_01__Options_01_4_01_4.html#a1342fc05f9b0c462978d53bf78ea490d',1,'Eigen::internal::traits&lt; Sophus::Sim3Group&lt; _Scalar, _Options &gt; &gt;::RxSO3Type()'],['../d4/de0/structEigen_1_1internal_1_1traits_3_01Map_3_01Sophus_1_1Sim3Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4.html#a805b8b91d146515bf0895eeffc26fce5',1,'Eigen::internal::traits&lt; Map&lt; Sophus::Sim3Group&lt; _Scalar &gt;, _Options &gt; &gt;::RxSO3Type()'],['../d3/d6f/structEigen_1_1internal_1_1traits_3_01Map_3_01const_01Sophus_1_1Sim3Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4.html#ae49d24c0c32a2912fc43df617eb199da',1,'Eigen::internal::traits&lt; Map&lt; const Sophus::Sim3Group&lt; _Scalar &gt;, _Options &gt; &gt;::RxSO3Type()']]]
+];

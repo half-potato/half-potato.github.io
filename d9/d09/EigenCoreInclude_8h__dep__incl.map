@@ -1,0 +1,20 @@
+<map id="src/util/EigenCoreInclude.h" name="src/util/EigenCoreInclude.h">
+<area shape="rect" id="node2" href="$de/dbe/DepthMap_8h.html" title="src/DepthEstimation\l/DepthMap.h" alt="" coords="1259,155,1399,197"/>
+<area shape="rect" id="node5" href="$d9/dab/DepthMapPixelHypothesis_8h.html" title="src/DepthEstimation\l/DepthMapPixelHypothesis.h" alt="" coords="891,155,1083,197"/>
+<area shape="rect" id="node9" href="$dc/d3b/KeyFrameGraph_8h.html" title="src/GlobalMapping/KeyFrame\lGraph.h" alt="" coords="672,155,867,197"/>
+<area shape="rect" id="node13" href="$d6/de5/SE3Tracker_8h.html" title="src/Tracking/SE3Tracker.h" alt="" coords="1667,163,1845,189"/>
+<area shape="rect" id="node16" href="$dd/dc0/Sim3Tracker_8h.html" title="src/Tracking/Sim3Tracker.h" alt="" coords="1971,163,2153,189"/>
+<area shape="rect" id="node18" href="$d0/db3/TrackingReference_8h.html" title="src/Tracking/TrackingReference.h" alt="" coords="1424,163,1643,189"/>
+<area shape="rect" id="node19" href="$dd/d76/LGSX_8h.html" title="src/Tracking/LGSX.h" alt="" coords="1811,80,1955,107"/>
+<area shape="rect" id="node3" href="$d8/d5e/DepthMap_8cpp.html" title="src/DepthEstimation\l/DepthMap.cpp" alt="" coords="699,246,839,287"/>
+<area shape="rect" id="node4" href="$de/dce/SlamSystem_8cpp.html" title="src/SlamSystem.cpp" alt="" coords="1493,253,1637,280"/>
+<area shape="rect" id="node6" href="$d5/de0/Frame_8cpp.html" title="src/DataStructures\l/Frame.cpp" alt="" coords="1122,246,1253,287"/>
+<area shape="rect" id="node7" href="$d5/dd0/DepthMapPixelHypothesis_8cpp.html" title="src/DepthEstimation\l/DepthMapPixelHypothesis.cpp" alt="" coords="467,246,673,287"/>
+<area shape="rect" id="node8" href="$de/db1/TrackingReference_8cpp.html" title="src/Tracking/TrackingReference.cpp" alt="" coords="865,253,1097,280"/>
+<area shape="rect" id="node10" href="$d7/d84/KeyFrameGraph_8cpp.html" title="src/GlobalMapping/KeyFrame\lGraph.cpp" alt="" coords="5,246,200,287"/>
+<area shape="rect" id="node11" href="$d3/dd3/TrackableKeyFrameSearch_8cpp.html" title="src/GlobalMapping/Trackable\lKeyFrameSearch.cpp" alt="" coords="1278,246,1468,287"/>
+<area shape="rect" id="node12" href="$d5/d46/ROSOutput3DWrapper_8cpp.html" title="src/IOWrapper/ROS/ROSOutput3\lDWrapper.cpp" alt="" coords="224,246,443,287"/>
+<area shape="rect" id="node14" href="$d0/df5/Relocalizer_8cpp.html" title="src/Tracking/Relocalizer.cpp" alt="" coords="1662,253,1849,280"/>
+<area shape="rect" id="node15" href="$d6/d91/SE3Tracker_8cpp.html" title="src/Tracking/SE3Tracker.cpp" alt="" coords="1875,253,2067,280"/>
+<area shape="rect" id="node17" href="$d6/dec/Sim3Tracker_8cpp.html" title="src/Tracking/Sim3Tracker.cpp" alt="" coords="2091,253,2288,280"/>
+</map>
