@@ -1,6 +1,0 @@
-<map id="lsd_slam::VertexSim3::oplusImpl" name="lsd_slam::VertexSim3::oplusImpl">
-<area shape="rect" id="node2" href="$classSophus_1_1Sim3GroupBase.html#ac39ec02a41087c306c333e7104def94c" title="Group exponential. " alt="" coords="206,85,375,141"/>
-<area shape="rect" id="node3" href="$classSophus_1_1RxSO3GroupBase.html#a64b2d932b458b49e01ffef1dfb789321" title="Group exponential and theta. " alt="" coords="424,5,611,61"/>
-<area shape="rect" id="node4" href="$classSophus_1_1SO3GroupBase.html#a330c86d19073bb2d142d88078d92a513" title="hat&#45;operator " alt="" coords="435,85,600,141"/>
-<area shape="rect" id="node5" href="$classSophus_1_1RxSO3GroupBase.html#a568f5cbdc1a40cd0f6237a91da65cf4a" title="Sophus::RxSO3GroupBase\l::scale" alt="" coords="426,165,609,206"/>
-</map>

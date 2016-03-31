@@ -1,6 +1,0 @@
-<map id="lsd_slam::Frame::~Frame" name="lsd_slam::Frame::~Frame">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1FrameMemory.html#adf4afed8c58a420b38e4b117628ac32d" title="lsd_slam::FrameMemory\l::getInstance" alt="" coords="227,5,394,46"/>
-<area shape="rect" id="node3" href="$classlsd__slam_1_1FrameMemory.html#aa44bf3b85a471ccb4c4c7da53f395ec6" title="lsd_slam::FrameMemory\l::deactivateFrame" alt="" coords="227,70,394,111"/>
-<area shape="rect" id="node5" href="$classlsd__slam_1_1FrameMemory.html#a04c59c5c8cfd2b65b4d7ce7b7d6ba493" title="lsd_slam::FrameMemory\l::returnBuffer" alt="" coords="227,135,394,177"/>
-<area shape="rect" id="node4" href="$classlsd__slam_1_1Frame.html#a6d38d40cd9a68d253bcb3cab2ddfa068" title="lsd_slam::Frame::id" alt="" coords="443,77,581,104"/>
-</map>

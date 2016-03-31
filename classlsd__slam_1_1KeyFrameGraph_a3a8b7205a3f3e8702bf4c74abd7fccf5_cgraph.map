@@ -1,6 +1,0 @@
-<map id="lsd_slam::KeyFrameGraph::addKeyFrame" name="lsd_slam::KeyFrameGraph::addKeyFrame">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1Frame.html#a6d38d40cd9a68d253bcb3cab2ddfa068" title="lsd_slam::Frame::id" alt="" coords="263,5,401,32"/>
-<area shape="rect" id="node3" href="$classlsd__slam_1_1Frame.html#a0f4a92d51569c280e4b37acbf562ea47" title="lsd_slam::Frame::getScaled\lCamToWorld" alt="" coords="239,57,425,98"/>
-<area shape="rect" id="node5" href="$classlsd__slam_1_1Frame.html#a013921be6869702deac98090a8c9033c" title="lsd_slam::Frame::hasTracking\lParent" alt="" coords="233,122,431,163"/>
-<area shape="rect" id="node4" href="$classlsd__slam_1_1FramePoseStruct.html#ae2e711db13b9732374fd5e04f960f914" title="lsd_slam::FramePoseStruct\l::getCamToWorld" alt="" coords="480,57,664,98"/>
-</map>

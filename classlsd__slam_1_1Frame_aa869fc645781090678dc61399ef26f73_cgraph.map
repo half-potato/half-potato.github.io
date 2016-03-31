@@ -1,7 +1,0 @@
-<map id="lsd_slam::Frame::setDepth" name="lsd_slam::Frame::setDepth">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1Frame.html#af73ccb75e1e449d9a8f2044246ee3530" title="lsd_slam::Frame::getActiveLock" alt="" coords="235,73,445,100"/>
-<area shape="rect" id="node3" href="$classlsd__slam_1_1FrameMemory.html#adf4afed8c58a420b38e4b117628ac32d" title="lsd_slam::FrameMemory\l::getInstance" alt="" coords="494,5,661,46"/>
-<area shape="rect" id="node5" href="$classlsd__slam_1_1FrameMemory.html#a5a2a621821958fe136a2ddc9707a1f72" title="lsd_slam::FrameMemory\l::getFloatBuffer" alt="" coords="257,127,423,169"/>
-<area shape="rect" id="node4" href="$classlsd__slam_1_1FrameMemory.html#a6835f2a14358dee3518d9f9bff8526e3" title="lsd_slam::FrameMemory\l::activateFrame" alt="" coords="494,70,661,111"/>
-<area shape="rect" id="node6" href="$classlsd__slam_1_1FrameMemory.html#abd3eb8d2623e977f3da91416d66d01e3" title="lsd_slam::FrameMemory\l::getBuffer" alt="" coords="494,135,661,177"/>
-</map>

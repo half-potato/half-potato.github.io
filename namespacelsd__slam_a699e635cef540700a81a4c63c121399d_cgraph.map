@@ -1,7 +1,0 @@
-<map id="lsd_slam::getDepthRainbowPlot" name="lsd_slam::getDepthRainbowPlot">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1Frame.html#ad78d873de1adfd4ab3268c50b1d462c7" title="lsd_slam::Frame::idepth" alt="" coords="275,5,437,32"/>
-<area shape="rect" id="node3" href="$classlsd__slam_1_1Frame.html#aa3fb7f275b5da621c039a6746b905770" title="lsd_slam::Frame::idepthVar" alt="" coords="265,56,447,83"/>
-<area shape="rect" id="node4" href="$classlsd__slam_1_1Frame.html#a9306307027bbe62b973c0b138216b456" title="lsd_slam::Frame::image" alt="" coords="275,107,437,133"/>
-<area shape="rect" id="node5" href="$classlsd__slam_1_1Frame.html#a3f14a1c43b6cb21d31274f880b0bf36b" title="lsd_slam::Frame::width" alt="" coords="277,157,435,184"/>
-<area shape="rect" id="node6" href="$classlsd__slam_1_1Frame.html#a014d19bf6ffba0f0c0b8b684f9afb0b0" title="lsd_slam::Frame::height" alt="" coords="275,208,437,235"/>
-</map>

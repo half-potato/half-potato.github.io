@@ -1,5 +1,0 @@
-<map id="lsd_slam::SlamSystem::getCurrentPoseEstimate" name="lsd_slam::SlamSystem::getCurrentPoseEstimate">
-<area shape="rect" id="node2" href="$namespacelsd__slam.html#a6ab8d718a8bf6c1c85541b8948bd5248" title="lsd_slam::se3FromSim3" alt="" coords="227,45,389,72"/>
-<area shape="rect" id="node3" href="$classSophus_1_1Sim3GroupBase.html#a3629f9f036df49823d478e3692d23e82" title="Mutator of quaternion. " alt="" coords="438,5,607,46"/>
-<area shape="rect" id="node4" href="$classSophus_1_1Sim3Group.html#ace8b98b369832930e647675b8c005d64" title="Mutator of translation vector. " alt="" coords="449,70,596,111"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="lsd_slam::KeyFrameGraph::insertConstraint" name="lsd_slam::KeyFrameGraph::insertConstraint">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1EdgeSim3.html#a7acac082215def62ac785981774e219a" title="lsd_slam::EdgeSim3\l::setMeasurement" alt="" coords="233,5,375,46"/>
-<area shape="rect" id="node3" href="$classSophus_1_1Sim3GroupBase.html#a21debb906ffbeda23394fbddea8f3acd" title="Sophus::Sim3GroupBase\l::inverse" alt="" coords="425,5,594,46"/>
-</map>

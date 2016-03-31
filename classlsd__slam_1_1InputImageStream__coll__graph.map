@@ -1,3 +1,0 @@
-<map id="lsd_slam::InputImageStream" name="lsd_slam::InputImageStream">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1NotifyBuffer.html" title="{lsd_slam::NotifyBuffer\l\&lt; lsd_slam::TimestampedObject \&gt;\n||+ NotifyBuffer()\l+ NotifyBuffer()\l+ setReceiver()\l+ pushBack()\l+ size()\l+ first()\l+ popFront()\l+ getMutex()\l}" alt="" coords="5,5,227,200"/>
-</map>

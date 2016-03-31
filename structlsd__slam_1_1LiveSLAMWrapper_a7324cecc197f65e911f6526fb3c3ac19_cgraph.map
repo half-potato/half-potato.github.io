@@ -1,4 +1,0 @@
-<map id="lsd_slam::LiveSLAMWrapper::logCameraPose" name="lsd_slam::LiveSLAMWrapper::logCameraPose">
-<area shape="rect" id="node2" href="$classSophus_1_1SE3GroupBase.html#a4ca1572cb93cddcc95db981fc1f861b2" title="Accessor of unit quaternion. " alt="" coords="265,5,429,46"/>
-<area shape="rect" id="node3" href="$classSophus_1_1SE3Group.html#a1bfd300de4529a2f6ba0ff5baecea98e" title="Mutator of translation vector. " alt="" coords="245,71,448,97"/>
-</map>

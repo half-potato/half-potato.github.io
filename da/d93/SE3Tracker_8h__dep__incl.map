@@ -1,6 +1,0 @@
-<map id="src/Tracking/SE3Tracker.h" name="src/Tracking/SE3Tracker.h">
-<area shape="rect" id="node2" href="$d3/dd3/TrackableKeyFrameSearch_8cpp.html" title="src/GlobalMapping/Trackable\lKeyFrameSearch.cpp" alt="" coords="5,81,195,122"/>
-<area shape="rect" id="node3" href="$de/dce/SlamSystem_8cpp.html" title="src/SlamSystem.cpp" alt="" coords="220,88,364,115"/>
-<area shape="rect" id="node4" href="$d0/df5/Relocalizer_8cpp.html" title="src/Tracking/Relocalizer.cpp" alt="" coords="389,88,576,115"/>
-<area shape="rect" id="node5" href="$d6/d91/SE3Tracker_8cpp.html" title="src/Tracking/SE3Tracker.cpp" alt="" coords="601,88,793,115"/>
-</map>

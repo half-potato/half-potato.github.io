@@ -1,4 +1,0 @@
-<map id="lsd_slam::Undistorter" name="lsd_slam::Undistorter">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1UndistorterOpenCV.html" title="{lsd_slam::UndistorterOpenCV\n||+ UndistorterOpenCV()\l+ ~UndistorterOpenCV()\l+ UndistorterOpenCV()\l+ operator=()\l+ undistort()\l+ getK()\l+ getOriginalK()\l+ getOutputWidth()\l+ getOutputHeight()\l+ getInputWidth()\l+ getInputHeight()\l+ isValid()\l}" alt="" coords="5,265,200,503"/>
-<area shape="rect" id="node3" href="$classlsd__slam_1_1UndistorterPTAM.html" title="{lsd_slam::UndistorterPTAM\n||+ UndistorterPTAM()\l+ ~UndistorterPTAM()\l+ UndistorterPTAM()\l+ operator=()\l+ undistort()\l+ getK()\l+ getOriginalK()\l+ getOutputWidth()\l+ getOutputHeight()\l+ getInputWidth()\l+ getInputHeight()\l+ isValid()\l}" alt="" coords="225,265,407,503"/>
-</map>
