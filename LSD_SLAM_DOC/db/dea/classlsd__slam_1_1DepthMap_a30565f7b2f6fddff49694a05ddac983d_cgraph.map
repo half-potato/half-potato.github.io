@@ -1,0 +1,6 @@
+<map id="lsd_slam::DepthMap::debugPlotDepthMap" name="lsd_slam::DepthMap::debugPlotDepthMap">
+<area shape="rect" id="node2" href="$dd/d08/classlsd__slam_1_1Frame.html#a014d19bf6ffba0f0c0b8b684f9afb0b0" title="lsd_slam::Frame::height" alt="" coords="240,5,403,32"/>
+<area shape="rect" id="node3" href="$dd/d08/classlsd__slam_1_1Frame.html#a3f14a1c43b6cb21d31274f880b0bf36b" title="lsd_slam::Frame::width" alt="" coords="242,56,401,83"/>
+<area shape="rect" id="node4" href="$db/dea/classlsd__slam_1_1DepthMap.html#a77ffa8175ac0ff7e3d9a6bbe72d7fe93" title="lsd_slam::DepthMap\l::isValid" alt="" coords="250,107,393,149"/>
+<area shape="rect" id="node5" href="$d9/d02/classlsd__slam_1_1DepthMapPixelHypothesis.html#ad59c8017a906e51e3ab3b104b68da64b" title="lsd_slam::DepthMapPixelHypothesis\l::getVisualizationColor" alt="" coords="203,173,440,214"/>
+</map>
