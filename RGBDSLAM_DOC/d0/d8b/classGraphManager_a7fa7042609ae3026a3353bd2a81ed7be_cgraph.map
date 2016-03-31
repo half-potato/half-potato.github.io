@@ -1,0 +1,11 @@
+<map id="GraphManager::addOdometry" name="GraphManager::addOdometry">
+<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="491,157,669,184"/>
+<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="507,5,653,32"/>
+<area shape="rect" id="node4" href="$d7/d5f/misc_8cpp.html#a620c2e3dd4f6b457a8425876e8632981" title="Print tf::Transform via ROS_INFO. " alt="" coords="292,107,399,133"/>
+<area shape="rect" id="node5" href="$db/d8d/graph__mgr__odom_8cpp.html#a894c401fd82c1af5365d883aebe1bdc0" title="createOdometryEdge" alt="" coords="273,56,418,83"/>
+<area shape="rect" id="node7" href="$d4/d08/misc_8h.html#a2b945fc2871e0006d856539080d3e0a0" title="eigenTF2QMatrix" alt="" coords="519,311,641,337"/>
+<area shape="rect" id="node9" href="$d0/d8b/classGraphManager.html#a2e6e14b4906e351b7ba2135315dd6fa3" title="Adds an odometry edge to the optimizer. " alt="" coords="249,209,442,250"/>
+<area shape="rect" id="node10" href="$d0/d8b/classGraphManager.html#a4aa1914e94c6a0d60f698d45811a01ef" title="Return pointer to a list of the optimizers graph poses on the heap(!) " alt="" coords="253,274,438,315"/>
+<area shape="rect" id="node6" href="$d7/d5f/misc_8cpp.html#a24fe652a87f594d550c1202bd9d61832" title="Conversion Function. " alt="" coords="548,56,612,83"/>
+<area shape="rect" id="node8" href="$d4/d08/misc_8h.html#afe9e1e85e61b3925b1121b6a11177591" title="printQMatrix4x4" alt="" coords="717,311,832,337"/>
+</map>

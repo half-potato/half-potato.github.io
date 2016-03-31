@@ -1,0 +1,18 @@
+<map id="PyramidGL::ResizeFeatureStorage" name="PyramidGL::ResizeFeatureStorage">
+<area shape="rect" id="node2" href="$d1/d75/classPyramidGL.html#a26c4ddce33dbce36f2cd9b8030cde568" title="PyramidGL::GetBaseLevel" alt="" coords="262,5,439,32"/>
+<area shape="rect" id="node3" href="$df/da6/classGLTexImage.html#ac3a15a06aac93511997c876cf4a2e175" title="GLTexImage::GetDrawWidth" alt="" coords="255,56,446,83"/>
+<area shape="rect" id="node4" href="$df/da6/classGLTexImage.html#a14d04508d48392c4f705a44bec04fa05" title="GLTexImage::GetDrawHeight" alt="" coords="253,107,448,133"/>
+<area shape="rect" id="node5" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="554,411,593,437"/>
+<area shape="rect" id="node6" href="$df/da6/classGLTexImage.html#a0e8739a59cc418ee4b5b1146d13fae0a" title="GLTexImage::InitTexture" alt="" coords="267,157,434,184"/>
+<area shape="rect" id="node11" href="$df/da6/classGLTexImage.html#aeb3373705e8eae0feac654a24ac80321" title="GLTexImage::AttachToFBO" alt="" coords="258,259,443,285"/>
+<area shape="rect" id="node12" href="$df/da6/classGLTexImage.html#acfe4c5231e3e4e64a914bf947498caf2" title="GLTexImage::GetImgWidth" alt="" coords="259,309,442,336"/>
+<area shape="rect" id="node13" href="$df/da6/classGLTexImage.html#a0a5bef9bbb86e30e0fac7baa6e7380a0" title="GLTexImage::GetImgHeight" alt="" coords="257,360,444,387"/>
+<area shape="rect" id="node14" href="$d1/d75/classPyramidGL.html#adc9f9256e92f0d2fccb5e992b0775ba6" title="PyramidGL::GetTextureStorageSize" alt="" coords="235,411,466,437"/>
+<area shape="rect" id="node15" href="$d1/d75/classPyramidGL.html#ab3096e88d1558cb4ad876a19597fa0f7" title="PyramidGL::GetAlignedStorageSize" alt="" coords="235,461,466,488"/>
+<area shape="rect" id="node16" href="$df/da6/classGLTexImage.html#a2d2fb8f7b78e537c8afef1f4615fa9b2" title="GLTexImage::GetTexWidth" alt="" coords="259,512,442,539"/>
+<area shape="rect" id="node17" href="$df/da6/classGLTexImage.html#acf5811dc18277b8f6284867198b7d87a" title="GLTexImage::GetTexHeight" alt="" coords="257,563,444,589"/>
+<area shape="rect" id="node7" href="$da/d33/glew_8h.html#a99e77ebf136a8c511226cf705049a305" title="glGenTextures" alt="" coords="520,81,627,108"/>
+<area shape="rect" id="node8" href="$da/d33/glew_8h.html#ac8dbabff536e520bc700960dadd8d787" title="glTexParameteri" alt="" coords="515,132,632,159"/>
+<area shape="rect" id="node9" href="$da/d33/glew_8h.html#a414668e7628d609ce501994bd609bfdf" title="glTexEnvi" alt="" coords="533,183,613,209"/>
+<area shape="rect" id="node10" href="$da/d33/glew_8h.html#aa95edbecc15f2cb8072b81af66d60f5b" title="glTexImage2D" alt="" coords="520,233,627,260"/>
+</map>

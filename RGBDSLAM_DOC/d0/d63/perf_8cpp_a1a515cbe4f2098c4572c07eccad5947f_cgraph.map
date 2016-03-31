@@ -1,0 +1,7 @@
+<map id="annPrintStats" name="annPrintStats">
+<area shape="rect" id="node2" href="$d0/d63/perf_8cpp.html#a532ee9d11c933b8bbf08ef05f0a4d37b" title="print_one_stat" alt="" coords="155,81,259,108"/>
+<area shape="rect" id="node3" href="$de/dca/classANNsampStat.html#a160bb296a7529384af88731b45b2cfcf" title="ANNsampStat::mean" alt="" coords="312,5,459,32"/>
+<area shape="rect" id="node4" href="$de/dca/classANNsampStat.html#aa5f55b125a8f8b510ede9b92d394ff71" title="ANNsampStat::stdDev" alt="" coords="307,56,464,83"/>
+<area shape="rect" id="node5" href="$de/dca/classANNsampStat.html#a6b9978f9a76c46b3b0794e5887eb6cb1" title="ANNsampStat::min" alt="" coords="317,107,453,133"/>
+<area shape="rect" id="node6" href="$de/dca/classANNsampStat.html#ad42511f02ba75bc3c1021724ba11d2ee" title="ANNsampStat::max" alt="" coords="315,157,455,184"/>
+</map>

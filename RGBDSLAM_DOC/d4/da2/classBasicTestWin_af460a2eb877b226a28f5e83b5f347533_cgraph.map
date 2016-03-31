@@ -1,0 +1,24 @@
+<map id="BasicTestWin::KeyInput" name="BasicTestWin::KeyInput">
+<area shape="rect" id="node2" href="$d5/d6b/classGlTransform.html#a1821ecad5323719150543f24a575bb51" title="GlTransform::scaleup" alt="" coords="243,5,389,32"/>
+<area shape="rect" id="node4" href="$d5/d6b/classGlTransform.html#acd0df49748f0420ca7443bfcfdc78ac5" title="GlTransform::scaledown" alt="" coords="234,56,398,83"/>
+<area shape="rect" id="node5" href="$d4/da2/classBasicTestWin.html#aeb27927a4bf63b9960c14a0d558ff50a" title="BasicTestWin::SetView" alt="" coords="235,107,397,133"/>
+<area shape="rect" id="node8" href="$d5/d6b/classGlTransform.html#a1e723aeff75df63b14dd554d8c3329e7" title="GlTransform::reset" alt="" coords="251,157,381,184"/>
+<area shape="rect" id="node9" href="$d9/d69/classSiftGPUEX.html#a4be7f08b6ebb6bb77a830d8ee929fe94" title="SiftGPUEX::ToggleDisplay\lDebug" alt="" coords="226,209,406,250"/>
+<area shape="rect" id="node10" href="$d4/dee/classSiftGPU.html#a7ecfea9c8fe68cbe0667a5754322222a" title="SiftGPU::RunSIFT" alt="" coords="250,275,382,301"/>
+<area shape="rect" id="node11" href="$d4/da2/classBasicTestWin.html#a30f22c3da432412539e40e7fa102ea6c" title="BasicTestWin::FitWindow" alt="" coords="229,325,403,352"/>
+<area shape="rect" id="node20" href="$d9/d69/classSiftGPUEX.html#a0af681709c2876158a93c62b37f94b4b" title="SiftGPUEX::RandomizeColor" alt="" coords="219,376,413,403"/>
+<area shape="rect" id="node21" href="$d4/dee/classSiftGPU.html#a633d50e0393037aa8e9ba6af1d2f2431" title="SiftGPU::SetVerbose" alt="" coords="243,427,389,453"/>
+<area shape="rect" id="node22" href="$d9/db8/glut_8h.html#a6f255d924f7a6bb2c4be0c8c2f2d9ce3" title="exit" alt="" coords="295,477,337,504"/>
+<area shape="rect" id="node23" href="$d4/da2/classBasicTestWin.html#ac6331db2bb925946fb49d4430ef551a3" title="BasicTestWin::myclock" alt="" coords="235,528,397,555"/>
+<area shape="rect" id="node3" href="$d5/d6b/classGlTransform.html#a67f7f9688f879bbdc1efd6ef31534a4e" title="GlTransform::scaleset" alt="" coords="494,19,645,45"/>
+<area shape="rect" id="node6" href="$d9/d69/classSiftGPUEX.html#a205e940675cde16d4d9cfa54e27edc89" title="SiftGPUEX::SetView" alt="" coords="496,95,643,121"/>
+<area shape="rect" id="node7" href="$d4/da2/classBasicTestWin.html#aa6c347d5e2c0745c4ded6936f4097c72" title="BasicTestWin::SetWindowTitle" alt="" coords="467,145,671,172"/>
+<area shape="rect" id="node12" href="$d9/d69/classSiftGPUEX.html#a5c48d2651d3281ac15eda13ecc01dca1" title="SiftGPUEX::GetImageDimension" alt="" coords="461,249,677,276"/>
+<area shape="rect" id="node13" href="$d4/da2/classBasicTestWin.html#a36612db2570958711599a96e823e9c1a" title="BasicTestWin::ReShape" alt="" coords="486,300,653,327"/>
+<area shape="rect" id="node18" href="$d5/d6b/classGlTransform.html#ad24fb5f6bbaad96442bc528e6b62a641" title="GlTransform::setcenter" alt="" coords="491,351,647,377"/>
+<area shape="rect" id="node19" href="$d4/da2/classBasicTestWin.html#a0747929e4e7c4e91b3fafa6a271eaccd" title="BasicTestWin::SetDisplaySize" alt="" coords="468,401,671,428"/>
+<area shape="rect" id="node14" href="$da/d33/glew_8h.html#a8e93835e91933b7078c88f905dd8599c" title="glViewport" alt="" coords="736,224,819,251"/>
+<area shape="rect" id="node15" href="$da/d33/glew_8h.html#af14e38e22806d0220680b52edbc3bcef" title="glMatrixMode" alt="" coords="727,275,827,301"/>
+<area shape="rect" id="node16" href="$da/d33/glew_8h.html#a6577472f85b23086331edadaf0311a49" title="glLoadIdentity" alt="" coords="726,325,829,352"/>
+<area shape="rect" id="node17" href="$da/d33/glew_8h.html#a2d92120b1fad876057dfd00e2d942525" title="glOrtho" alt="" coords="745,376,809,403"/>
+</map>

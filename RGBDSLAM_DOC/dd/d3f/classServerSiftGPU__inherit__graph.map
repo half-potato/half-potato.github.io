@@ -1,0 +1,6 @@
+<map id="ServerSiftGPU" name="ServerSiftGPU">
+<area shape="rect" id="node2" href="$d3/d80/classComboSiftGPU.html" title="{ComboSiftGPU\n||+ operator new()\l}" alt="" coords="129,787,245,864"/>
+<area shape="rect" id="node3" href="$d4/dee/classSiftGPU.html" title="{SiftGPU\n|+ _timing\l# _current\l# _initialized\l# _image_loaded\l# _imgpath\l# _outpath\l# _list\l# _texImage\l# _pyramid\l|+ GetCurrentImagePath()\l+ SetImageList()\l+ GetFeatureNum()\l+ SaveSIFT()\l+ GetFeatureVector()\l+ SetKeypointList()\l+ CreateContextGL()\l+ VerifyContextGL()\l+ IsFullSupported()\l+ SetVerbose()\land 15 more...\l# InitSiftGPU()\l# LoadImageList()\l# PrintUsage()\l}" alt="" coords="9,353,177,738"/>
+<area shape="rect" id="node4" href="$dc/d5a/classSiftParam.html" title="{SiftParam\n|+ _sigma\l+ _sigma_skip0\l+ _sigma_skip1\l+ _sigma0\l+ _sigman\l+ _sigma_num\l+ _dog_level_num\l+ _level_num\l+ _level_min\l+ _level_max\l+ _level_ds\l+ _dog_threshold\l+ _edge_threshold\l|+ ParseSiftParam()\l+ GetLevelSigma()\l+ GetInitialSmoothSigma()\l+ SiftParam()\l}" alt="" coords="5,6,181,303"/>
+<area shape="rect" id="node5" href="$db/df0/classSiftMatchGPU.html" title="matcher export " alt="" coords="203,397,361,694"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GLTexInput" name="GLTexInput">
+<area shape="rect" id="node2" href="$df/da6/classGLTexImage.html" title="{GLTexImage\n|# _texID\l# _imgWidth\l# _imgHeight\l# _texWidth\l# _texHeight\l# _drawWidth\l# _drawHeight\l|+ DrawQuadUS()\l+ DrawQuadDS()\l+ DrawImage()\l+ TexConvertRGB()\l+ ZeroHistoMargin()\l+ SetImageSize()\l+ InitTexture()\l+ InitTexture()\l+ FillMargin()\l+ DrawScaledQuad()\land 28 more...\l+ DetachFBO()\l+ UnbindTex()\l+ UnbindMultiTex()\l+ DrawQuad()\l}" alt="" coords="31,549,175,920"/>
+<area shape="rect" id="node3" href="$d2/d55/classGlobalUtil.html" title="{GlobalUtil\n||+ CLOCK()\l+ StopTimer()\l+ StartTimer()\l+ GetElapsedTime()\l+ FitViewPort()\l+ SetTextureParameter()\l+ SetTextureParameterUS()\l+ CheckErrorsGL()\l+ CheckFramebufferStatus()\l+ SelectDisplay()\land 6 more...\l}" alt="" coords="9,277,196,501"/>
+<area shape="rect" id="node4" href="$db/d04/classGlobalParam.html" title="{GlobalParam\n|+ _texTarget\l+ _iTexFormat\l+ _texMaxDim\l+ _texMaxDimGL\l+ _texMinDim\l+ _MemCapGPU\l+ _FitMemoryCap\l+ _verbose\l+ _timingS\l+ _timingO\land 53 more...\l|}" alt="" coords="39,5,165,229"/>
+</map>

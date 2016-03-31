@@ -1,0 +1,7 @@
+<map id="GLTexImage::DrawQuad" name="GLTexImage::DrawQuad">
+<area shape="rect" id="node2" href="$da/d33/glew_8h.html#a98964453975519f92d6cc59ef77f7436" title="glBegin" alt="" coords="239,5,305,32"/>
+<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a09db6f9fa0d39ef7e3919e6212296ece" title="glTexCoord2f" alt="" coords="222,56,322,83"/>
+<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a474f4498ace02f86e7f299eb8bf27da3" title="glVertex2f" alt="" coords="231,107,313,133"/>
+<area shape="rect" id="node5" href="$da/d33/glew_8h.html#abbff207d1fa71b296ff35b149cef7238" title="glEnd" alt="" coords="245,157,299,184"/>
+<area shape="rect" id="node6" href="$da/d33/glew_8h.html#afb3e087fc26a916a909d46ead9cfc44a" title="glFlush" alt="" coords="240,208,304,235"/>
+</map>

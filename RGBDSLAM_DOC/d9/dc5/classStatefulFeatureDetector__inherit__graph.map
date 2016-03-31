@@ -1,0 +1,4 @@
+<map id="StatefulFeatureDetector" name="StatefulFeatureDetector">
+<area shape="rect" id="node3" href="$df/de2/classVideoDynamicAdaptedFeatureDetector.html" title="{VideoDynamicAdaptedFeature\lDetector\n||+ VideoDynamicAdaptedFeature\lDetector()\l+ clone()\l+ empty()\l# detectImpl()\l}" alt="" coords="5,286,215,437"/>
+<area shape="rect" id="node4" href="$d3/d58/classVideoGridAdaptedFeatureDetector.html" title="{VideoGridAdaptedFeatureDetector\n|# detectors\l# maxTotalKeypoints\l# gridRows\l# gridCols\l# edgeThreshold\l|+ VideoGridAdaptedFeatureDetector()\l+ empty()\l+ clone()\l# operator=()\l# VideoGridAdaptedFeatureDetector()\l# detectImpl()\l}" alt="" coords="241,257,481,466"/>
+</map>

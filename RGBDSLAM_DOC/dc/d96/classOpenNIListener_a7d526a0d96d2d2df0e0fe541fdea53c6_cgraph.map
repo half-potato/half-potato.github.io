@@ -1,0 +1,6 @@
+<map id="OpenNIListener::processBagfile" name="OpenNIListener::processBagfile">
+<area shape="rect" id="node2" href="$db/d34/openni__listener_8cpp.html#af34b43416e058262e3f3dc2c13a36130" title="addTFMessageDirectlyToTransformer" alt="" coords="261,5,504,32"/>
+<area shape="rect" id="node3" href="$dc/d96/classOpenNIListener.html#aef5401f522f12aa17557fd94c1154ea0" title="Callback for the robot odometry. " alt="" coords="281,56,485,83"/>
+<area shape="rect" id="node5" href="$d3/dee/classBagSubscriber.html#aed568d79cd681f8f5ea206f424674e4e" title="BagSubscriber::newMessage" alt="" coords="287,107,479,133"/>
+<area shape="rect" id="node4" href="$d7/d5f/misc_8cpp.html#a620c2e3dd4f6b457a8425876e8632981" title="Print tf::Transform via ROS_INFO. " alt="" coords="552,56,659,83"/>
+</map>

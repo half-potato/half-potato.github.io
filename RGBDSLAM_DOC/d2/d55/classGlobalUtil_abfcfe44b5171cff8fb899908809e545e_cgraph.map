@@ -1,0 +1,12 @@
+<map id="GlobalUtil::InitGLParam" name="GlobalUtil::InitGLParam">
+<area shape="rect" id="node2" href="$da/d33/glew_8h.html#a60f638ea2b56ff27509779faf093e3e7" title="glewInit" alt="" coords="285,5,352,32"/>
+<area shape="rect" id="node3" href="$da/d33/glew_8h.html#aec433a2092e9179b6f66af1a822adf30" title="glGetString" alt="" coords="275,56,362,83"/>
+<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a3d84341b1f876ac61065fef3f5933ff7" title="glewGetExtension" alt="" coords="255,107,383,133"/>
+<area shape="rect" id="node5" href="$da/d33/glew_8h.html#ae9ebc290561b3321b629610807155a35" title="glGetIntegerv" alt="" coords="269,157,369,184"/>
+<area shape="rect" id="node6" href="$da/d33/glew_8h.html#a1beaf822e5a901dc3fe429b68efb77d4" title="glEnable" alt="" coords="283,208,355,235"/>
+<area shape="rect" id="node7" href="$da/d33/glew_8h.html#af1e3a750be50d9edd85f0fe49a6fe4a0" title="glShadeModel" alt="" coords="267,259,371,285"/>
+<area shape="rect" id="node8" href="$da/d33/glew_8h.html#a5e3f489d997350749919a24247a8203b" title="glPolygonMode" alt="" coords="263,309,374,336"/>
+<area shape="rect" id="node9" href="$d2/d55/classGlobalUtil.html#ac91a1662f96ce5d1829dbb91db81be10" title="GlobalUtil::SetTextureParameter" alt="" coords="213,360,424,387"/>
+<area shape="rect" id="node10" href="$da/d33/glew_8h.html#ac8dbabff536e520bc700960dadd8d787" title="glTexParameteri" alt="" coords="472,335,589,361"/>
+<area shape="rect" id="node11" href="$da/d33/glew_8h.html#a414668e7628d609ce501994bd609bfdf" title="glTexEnvi" alt="" coords="491,385,571,412"/>
+</map>

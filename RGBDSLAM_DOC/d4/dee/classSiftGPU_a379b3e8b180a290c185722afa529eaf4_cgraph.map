@@ -1,0 +1,18 @@
+<map id="SiftGPU::RunSIFT" name="SiftGPU::RunSIFT">
+<area shape="rect" id="node2" href="$d2/d55/classGlobalUtil.html#ad88109c1e1efc71fdd98a85c51b6321b" title="GlobalUtil::SetGLParam" alt="" coords="197,5,360,32"/>
+<area shape="rect" id="node4" href="$d9/d98/classClockTimer.html#a21afd83f68d30c08892743115f6ea9cd" title="ClockTimer::StartTimer" alt="" coords="419,107,578,133"/>
+<area shape="rect" id="node6" href="$d2/d55/classGlobalUtil.html#aaa5ebd526dfe13eb5eb61fee67c75a10" title="GlobalUtil::StartTimer" alt="" coords="205,107,353,133"/>
+<area shape="rect" id="node7" href="$d2/d55/classGlobalUtil.html#a6b0bb7a6fc3b0dcfcf22a3a00bb05a65" title="GlobalUtil::StopTimer" alt="" coords="205,157,352,184"/>
+<area shape="rect" id="node8" href="$d9/d98/classClockTimer.html#a7506d8fad1473bf4f3bdfb9e8590a6c3" title="ClockTimer::StopTimer" alt="" coords="420,157,577,184"/>
+<area shape="rect" id="node10" href="$d2/d55/classGlobalUtil.html#a4d0d910aba3a7cffc91c07ee8377f012" title="GlobalUtil::GetElapsedTime" alt="" coords="187,259,371,285"/>
+<area shape="rect" id="node11" href="$d2/d55/classGlobalUtil.html#a30830c22f7574d8d6f5a5b0a0b31ad50" title="GlobalUtil::FitViewPort" alt="" coords="201,309,356,336"/>
+<area shape="rect" id="node17" href="$d9/db8/glut_8h.html#a6f255d924f7a6bb2c4be0c8c2f2d9ce3" title="exit" alt="" coords="257,360,300,387"/>
+<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a1beaf822e5a901dc3fe429b68efb77d4" title="glEnable" alt="" coords="463,5,535,32"/>
+<area shape="rect" id="node5" href="$d9/d98/classClockTimer.html#a23cf363d1025bb1a93951d9ccdabc639" title="ClockTimer::ClockMS" alt="" coords="649,120,799,147"/>
+<area shape="rect" id="node9" href="$d9/d98/classClockTimer.html#a5a6919057a81f4843619032cab692091" title="ClockTimer::GetElapsedTime" alt="" coords="627,196,821,223"/>
+<area shape="rect" id="node12" href="$da/d33/glew_8h.html#ae9ebc290561b3321b629610807155a35" title="glGetIntegerv" alt="" coords="449,259,549,285"/>
+<area shape="rect" id="node13" href="$da/d33/glew_8h.html#a8e93835e91933b7078c88f905dd8599c" title="glViewport" alt="" coords="457,309,540,336"/>
+<area shape="rect" id="node14" href="$da/d33/glew_8h.html#af14e38e22806d0220680b52edbc3bcef" title="glMatrixMode" alt="" coords="449,360,549,387"/>
+<area shape="rect" id="node15" href="$da/d33/glew_8h.html#a6577472f85b23086331edadaf0311a49" title="glLoadIdentity" alt="" coords="447,411,550,437"/>
+<area shape="rect" id="node16" href="$da/d33/glew_8h.html#a2d92120b1fad876057dfd00e2d942525" title="glOrtho" alt="" coords="467,461,531,488"/>
+</map>

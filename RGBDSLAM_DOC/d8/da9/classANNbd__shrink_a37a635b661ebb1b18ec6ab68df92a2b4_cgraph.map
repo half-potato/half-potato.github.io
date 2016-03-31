@@ -1,0 +1,9 @@
+<map id="ANNbd_shrink::getStats" name="ANNbd_shrink::getStats">
+<area shape="rect" id="node2" href="$d9/d87/kd__util_8cpp.html#ab9e52de33c0c32dd9b27eb58d78fb7e4" title="annBnds2Box" alt="" coords="246,31,349,57"/>
+<area shape="rect" id="node6" href="$d4/d61/classANNkdStats.html#a7ebff910ff7fa893e8528989b0091b11" title="ANNkdStats::reset" alt="" coords="231,81,364,108"/>
+<area shape="rect" id="node7" href="$dc/d39/classANNkd__node.html#a8e18026bd3a10d3b2fed0f8dbbfd1bcf" title="ANNkd_node::getStats" alt="" coords="219,132,376,159"/>
+<area shape="rect" id="node8" href="$d4/d61/classANNkdStats.html#abec3668063ce9eebd2e134e665abe290" title="ANNkdStats::merge" alt="" coords="227,183,367,209"/>
+<area shape="rect" id="node3" href="$d5/d32/ANNx_8h.html#aa570fcff6b3af0b516162d102c04c68b" title="annAssignRect" alt="" coords="459,5,570,32"/>
+<area shape="rect" id="node4" href="$df/dd5/classANNorthHalfSpace.html#abd63063b5627aeb80428942438c653bc" title="ANNorthHalfSpace::project" alt="" coords="424,56,605,83"/>
+<area shape="rect" id="node5" href="$df/dd5/classANNorthHalfSpace.html#a43889114febbc41859d5c44f2f220f7e" title="ANNorthHalfSpace::out" alt="" coords="653,56,813,83"/>
+</map>

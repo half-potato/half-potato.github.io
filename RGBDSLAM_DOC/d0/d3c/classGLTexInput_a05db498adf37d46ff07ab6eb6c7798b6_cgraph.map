@@ -1,0 +1,13 @@
+<map id="GLTexInput::LoadImageFile" name="GLTexInput::LoadImageFile">
+<area shape="rect" id="node2" href="$d2/d16/il_8h.html#a21ddd3621df6a2e12c66df6b350409d9" title="ilInit" alt="" coords="269,5,315,32"/>
+<area shape="rect" id="node3" href="$d2/d16/il_8h.html#ad3ab67c4e120b397314e42c112eac628" title="ilOriginFunc" alt="" coords="247,56,337,83"/>
+<area shape="rect" id="node4" href="$d2/d16/il_8h.html#a1dc69aee6c4a60673f6aa6f450d05c37" title="ilEnable" alt="" coords="258,107,326,133"/>
+<area shape="rect" id="node5" href="$d2/d16/il_8h.html#a1996dc2c6f1ec0b5ede9ea99373b1667" title="ilGenImages" alt="" coords="245,157,339,184"/>
+<area shape="rect" id="node6" href="$d2/d16/il_8h.html#a5b194319263be3981e57edff5cd20f06" title="ilBindImage" alt="" coords="247,208,337,235"/>
+<area shape="rect" id="node7" href="$d2/d16/il_8h.html#aabdd461d9326ef760d550121d64da3e1" title="ilLoadImage" alt="" coords="246,259,338,285"/>
+<area shape="rect" id="node8" href="$d2/d16/il_8h.html#ab142f916902d6d251b153151223a950d" title="ilGetInteger" alt="" coords="247,309,337,336"/>
+<area shape="rect" id="node9" href="$d2/d16/il_8h.html#ab4343941107c32d8312baa2ef2aeb796" title="ilGetData" alt="" coords="253,360,331,387"/>
+<area shape="rect" id="node10" href="$d2/d16/il_8h.html#add4600e363a1e68cf5f5e34e5bce5bac" title="ilGetError" alt="" coords="253,411,331,437"/>
+<area shape="rect" id="node11" href="$d2/d16/il_8h.html#a19983786494ca1d9157922f6888f6277" title="ilDeleteImages" alt="" coords="237,461,347,488"/>
+<area shape="rect" id="node12" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="273,512,311,539"/>
+</map>

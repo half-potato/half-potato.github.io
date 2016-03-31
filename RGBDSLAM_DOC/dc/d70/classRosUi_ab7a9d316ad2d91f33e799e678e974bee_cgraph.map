@@ -1,0 +1,10 @@
+<map id="RosUi::RosUi" name="RosUi::RosUi">
+<area shape="rect" id="node2" href="$dc/d70/classRosUi.html#a2b2bbe78610f629b56c56172cf44c3c0" title="a service&#45;client for all methods not needing an argument: {reset, quick_save, save_all, save_individual, send_all, delete_frame} " alt="" coords="173,56,289,83"/>
+<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="357,5,534,32"/>
+<area shape="rect" id="node6" href="$dc/d70/classRosUi.html#a7363457ea46a2c1b25667176200860d3" title="a service&#45;client for all methods with bool as argument: {pause, record} " alt="" coords="165,107,296,133"/>
+<area shape="rect" id="node7" href="$dc/d70/classRosUi.html#aeb91dbd4dee24a43e02dfb7b4293c94e" title="a service&#45;client for floats, e.g., for changing the maximal depth of a point: {set_max} ..." alt="" coords="167,157,294,184"/>
+<area shape="rect" id="node8" href="$dc/d70/classRosUi.html#a8f16e103b441b3704575764a93419062" title="a service&#45;client for commands with string arguments, e.g. a filename " alt="" coords="165,208,296,235"/>
+<area shape="rect" id="node9" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="157,259,304,285"/>
+<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#ab61824dc32f866bdc3a6f4b7d1073b49" title="ParameterServer::getValues" alt="" coords="352,56,539,83"/>
+<area shape="rect" id="node5" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="587,56,626,83"/>
+</map>

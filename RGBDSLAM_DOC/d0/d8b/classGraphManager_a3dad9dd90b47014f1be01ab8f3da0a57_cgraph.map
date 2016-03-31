@@ -1,0 +1,51 @@
+<map id="GraphManager::addNode" name="GraphManager::addNode">
+<area shape="rect" id="node2" href="$d0/d8b/classGraphManager.html#a995b1e5399df2c726354eeadfcc12288" title="Start over. " alt="" coords="772,1194,951,1220"/>
+<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="1319,890,1497,916"/>
+<area shape="rect" id="node5" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="1335,1396,1481,1423"/>
+<area shape="rect" id="node6" href="$d0/d8b/classGraphManager.html#abf8c9fe41c6dfa4ac31e6569dca25733" title="Adds the first node. " alt="" coords="243,562,411,588"/>
+<area shape="rect" id="node12" href="$d0/d8b/classGraphManager.html#aff1adf83b01fae1430f01a1cf1e6c20e" title="Add a keyframe to the list (and log keyframes) " alt="" coords="495,132,687,159"/>
+<area shape="rect" id="node13" href="$df/dd0/classNode.html#ade58f2370cb8542f4bc4c1350a3ba462" title="erase the points from the cloud to save memory " alt="" coords="785,31,938,58"/>
+<area shape="rect" id="node15" href="$d0/d8b/classGraphManager.html#a485d97d70bb895457ccd9538fbbb3bf6" title="GraphManager::optimizeGraph" alt="" coords="491,418,690,444"/>
+<area shape="rect" id="node25" href="$d7/d12/classScopedTimer.html#acb1a3efcc11ddfb39b059611f7e548ab" title="Get time since construction. " alt="" coords="1061,31,1213,58"/>
+<area shape="rect" id="node26" href="$d0/d8b/classGraphManager.html#ab9c9bb92954fcd04ff4c6535dfae740e" title="Output:contains the best&#45;yet of the pairwise motion estimates for the current node. " alt="" coords="481,915,701,942"/>
+<area shape="rect" id="node27" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="1389,1802,1427,1828"/>
+<area shape="rect" id="node45" href="$d0/d8b/classGraphManager.html#a9558ff7ac98735eb0b6b98f9b6400892" title="use matching results to update location " alt="" coords="237,490,417,532"/>
+<area shape="rect" id="node46" href="$d0/d8b/classGraphManager.html#a8d2bf658bd3bbdec2f32c05a6e36dae8" title="Send markers to visualize the graph edges (cam transforms) in rviz (if somebody subscribed) ..." alt="" coords="226,2056,427,2097"/>
+<area shape="rect" id="node47" href="$d0/d8b/classGraphManager.html#a200b99d0842bfd456bcafca6a098ddde" title="Send markers to visualize the graph nodes (cam positions) in rviz (if somebody subscribed) ..." alt="" coords="226,2121,427,2162"/>
+<area shape="rect" id="node48" href="$d0/d8b/classGraphManager.html#a2f3f4b65bc8a8acb72bbad5fc6804fe3" title="Send markers to visualize the last matched features in rviz (if somebody subscribed) ..." alt="" coords="221,2186,432,2228"/>
+<area shape="rect" id="node4" href="$d0/d8b/classGraphManager.html#a372079b96a4b36722f94a81fe79c278c" title="Instanciate the optimizer with the desired backend. " alt="" coords="1034,1194,1241,1220"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#aa714d9c36f25c4a40d69b6bd100c10fe" title="Transform, e.g., from MoCap. " alt="" coords="485,620,696,647"/>
+<area shape="rect" id="node8" href="$d7/d5f/misc_8cpp.html#a620c2e3dd4f6b457a8425876e8632981" title="Print tf::Transform via ROS_INFO. " alt="" coords="808,570,915,596"/>
+<area shape="rect" id="node9" href="$d7/d5f/misc_8cpp.html#a24fe652a87f594d550c1202bd9d61832" title="Conversion Function. " alt="" coords="559,671,623,698"/>
+<area shape="rect" id="node10" href="$d7/d5f/misc_8cpp.html#a3f5a98bfd7988fd43573e8237580486b" title="Conversion Function. " alt="" coords="543,468,639,495"/>
+<area shape="rect" id="node11" href="$d7/d5f/misc_8cpp.html#afe9e1e85e61b3925b1121b6a11177591" title="printQMatrix4x4" alt="" coords="804,468,919,495"/>
+<area shape="rect" id="node14" href="$df/dd0/classNode.html#ac0d0027d1f1ac83c942d007629268171" title="Node::clearFeatureInformation" alt="" coords="762,82,961,108"/>
+<area shape="rect" id="node16" href="$d0/d8b/classGraphManager.html#aa29c73b4f404c4f89694f91c9af3e6a6" title="Applies g2o for optimization returns chi2. " alt="" coords="749,414,973,440"/>
+<area shape="rect" id="node17" href="$d4/d1a/graph__manager_8cpp.html#a3e690180d75a521b31a3d4b402793d5e" title="fixationOfVertices" alt="" coords="1074,351,1201,378"/>
+<area shape="rect" id="node18" href="$d0/d8b/classGraphManager.html#a802422b66dc417f4125842b53da8183a" title="GraphManager::last\l_added_cam_vertex_id" alt="" coords="1059,402,1215,444"/>
+<area shape="rect" id="node19" href="$d4/d08/misc_8h.html#a7bd6e35e893b731601e2239721f03ae9" title="eigenTransf2TF" alt="" coords="1081,570,1194,596"/>
+<area shape="rect" id="node20" href="$d0/d8b/classGraphManager.html#a5ed6dafc45d6736bb5fbbe0ba5cc1d89" title="GraphManager::stampedTransform\lInWorldFrame" alt="" coords="1025,621,1249,662"/>
+<area shape="rect" id="node22" href="$d0/d8b/classGraphManager.html#a4347303a3197042850f9d2226c70bfc9" title="Broadcast given transform. " alt="" coords="1022,234,1253,260"/>
+<area shape="rect" id="node24" href="$d0/d8b/classGraphManager.html#a1c8c6572bc4dd18f271496bc7f0d549c" title="GraphManager::updateCloud\lOrigin" alt="" coords="1043,285,1231,326"/>
+<area shape="rect" id="node21" href="$df/dd0/classNode.html#adaf50ff94906ea43c16b79fe0e3547ab" title="Transform, e.g., from kinematics. " alt="" coords="1302,628,1514,655"/>
+<area shape="rect" id="node23" href="$de/d83/graph__manager_8h.html#a2e10953ff4a21d6e02d9574a3b2740b8" title="Send node&#39;s pointcloud with given publisher and timestamp. " alt="" coords="1359,234,1457,260"/>
+<area shape="rect" id="node28" href="$df/dd0/classNode.html#a798492f2da22010b3af5ceeea01abbc7" title="Compare the features of two nodes and compute the transformation. " alt="" coords="786,1548,937,1575"/>
+<area shape="rect" id="node36" href="$d3/dc0/classMatchingResult.html#a9b3a19fbc71960095215aef9bc68bd6d" title="MatchingResult::toString" alt="" coords="778,1042,945,1068"/>
+<area shape="rect" id="node37" href="$d7/d5f/misc_8cpp.html#ad125408fa50d756a5cc2a44a536cdaf1" title="isBigTrafo" alt="" coords="821,940,902,967"/>
+<area shape="rect" id="node39" href="$d7/d5f/misc_8cpp.html#a7d3202bf06487a1f507a57be78b0708f" title="isSmallTrafo" alt="" coords="814,890,909,916"/>
+<area shape="rect" id="node40" href="$d0/d8b/classGraphManager.html#a6185d3174f01c60f0be31bbf3fa71d18" title="Adds an visual&#45;feature&#45;correspondence edge to the optimizer. " alt="" coords="757,1092,965,1119"/>
+<area shape="rect" id="node41" href="$d4/d08/misc_8h.html#a2b945fc2871e0006d856539080d3e0a0" title="eigenTF2QMatrix" alt="" coords="1076,1042,1199,1068"/>
+<area shape="rect" id="node43" href="$d4/d1a/graph__manager_8cpp.html#a89a468f5a7d91681105fa1f6ea7e63c7" title="updateInlierFeatures" alt="" coords="791,1143,931,1170"/>
+<area shape="rect" id="node44" href="$d0/d8b/classGraphManager.html#aaadd917b8f4557746989f77c34b84bd1" title="GraphManager::getPotential\lEdgeTargetsWithDijkstra" alt="" coords="769,773,953,814"/>
+<area shape="rect" id="node29" href="$df/dd0/classNode.html#a3593ebae998adac8b73d7e941b486c49" title="Node::featureMatching" alt="" coords="1060,1751,1215,1778"/>
+<area shape="rect" id="node30" href="$df/dd0/classNode.html#a6414ea84b27691d2451f5eca2c3c0ac1" title="Compute the relative transformation between the nodes. " alt="" coords="1023,1599,1252,1626"/>
+<area shape="rect" id="node31" href="$d7/d70/node_8cpp.html#aa98d49a0e825d3a8556f13f76bf86b8a" title="pairwiseObservationLikelihood" alt="" coords="1038,1498,1237,1524"/>
+<area shape="rect" id="node32" href="$d7/d5f/misc_8cpp.html#aa1ee2bfacc8626268bd8c12368e3f38c" title="Quality is output param. " alt="" coords="1052,1396,1223,1423"/>
+<area shape="rect" id="node33" href="$d7/d7a/icp_8h.html#a35fb7940503bf5ba5f94ef9dcb6ad3e3" title="Filter NaNs. Uniformly subsample the remaining points to achieve the desired size. " alt="" coords="1097,1548,1178,1575"/>
+<area shape="rect" id="node34" href="$d7/d7a/icp_8h.html#aff9db6a8526984d12debe4f90312e726" title="icpAlignment" alt="" coords="1089,1650,1186,1676"/>
+<area shape="rect" id="node35" href="$d7/d5f/misc_8cpp.html#a3e76d2b492d7a82d93174c0519073a98" title="Conversion Function. " alt="" coords="1094,1447,1181,1474"/>
+<area shape="rect" id="node38" href="$d7/d5f/misc_8cpp.html#a39e422033a6ace451b7012de2d7f9ae3" title="trafoSize" alt="" coords="1100,940,1175,967"/>
+<area shape="rect" id="node42" href="$d4/d08/misc_8h.html#afe9e1e85e61b3925b1121b6a11177591" title="printQMatrix4x4" alt="" coords="1351,1042,1465,1068"/>
+<area shape="rect" id="node49" href="$d0/d8b/classGraphManager.html#a1d30a82c4fb69ac1558df58853d34773" title="GraphManager::nodeId2VertexId" alt="" coords="485,2168,696,2195"/>
+<area shape="rect" id="node50" href="$d7/d5f/misc_8cpp.html#a753eaa8066b6a8cd8426192bc314f75e" title="pointInWorldFrame" alt="" coords="525,2219,657,2246"/>
+</map>

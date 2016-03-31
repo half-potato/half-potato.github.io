@@ -1,0 +1,29 @@
+<map id="PyramidNaive::InitPyramid" name="PyramidNaive::InitPyramid">
+<area shape="rect" id="node2" href="$d9/df0/classPyramidNaive.html#ac7041f6ca7b122406a250f932cd84f73" title="PyramidNaive::FitPyramid" alt="" coords="246,509,421,536"/>
+<area shape="rect" id="node7" href="$d9/df0/classPyramidNaive.html#a25e26a2e8294e2218d8ac9556fabdd08" title="PyramidNaive::ResizePyramid" alt="" coords="233,385,434,412"/>
+<area shape="rect" id="node26" href="$d4/d24/classShaderMan.html#ab8414181551067e6b23a96567808c812" title="ShaderMan::SelectInitial\lSmoothingFilter" alt="" coords="251,618,415,659"/>
+<area shape="rect" id="node3" href="$dd/dce/classSiftPyramid.html#a8ed85e9e72c573c1ae35b20bfd2423eb" title="SiftPyramid::GetRequired\lOctaveNum" alt="" coords="515,443,685,485"/>
+<area shape="rect" id="node5" href="$d9/df0/classPyramidNaive.html#a38627fede62de0bab2af2f76daf0e7ca" title="PyramidNaive::GetBaseLevel" alt="" coords="503,509,697,536"/>
+<area shape="rect" id="node6" href="$df/da6/classGLTexImage.html#a57d1a67486a2d19508b4b4bb65cb0e88" title="GLTexImage::SetImageSize" alt="" coords="507,560,693,587"/>
+<area shape="rect" id="node4" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="1085,563,1123,589"/>
+<area shape="rect" id="node8" href="$d1/d75/classPyramidGL.html#a92b4b4dab4de07ae7f02c1d0959b19ae" title="PyramidGL::DestroyPerLevelData" alt="" coords="490,276,710,303"/>
+<area shape="rect" id="node9" href="$d9/df0/classPyramidNaive.html#aa64e63e06eb69f680aee342e54f593c8" title="PyramidNaive::DestroyPyramidData" alt="" coords="483,327,717,353"/>
+<area shape="rect" id="node10" href="$df/da6/classGLTexImage.html#a0e8739a59cc418ee4b5b1146d13fae0a" title="GLTexImage::InitTexture" alt="" coords="798,81,965,108"/>
+<area shape="rect" id="node15" href="$d1/d75/classPyramidGL.html#a90bbd79da17d195d05b15b6439b6f693" title="PyramidGL::ResizeFeature\lStorage" alt="" coords="510,378,690,419"/>
+<area shape="rect" id="node11" href="$da/d33/glew_8h.html#a99e77ebf136a8c511226cf705049a305" title="glGenTextures" alt="" coords="1051,157,1157,184"/>
+<area shape="rect" id="node12" href="$da/d33/glew_8h.html#ac8dbabff536e520bc700960dadd8d787" title="glTexParameteri" alt="" coords="1045,5,1163,32"/>
+<area shape="rect" id="node13" href="$da/d33/glew_8h.html#a414668e7628d609ce501994bd609bfdf" title="glTexEnvi" alt="" coords="1064,56,1144,83"/>
+<area shape="rect" id="node14" href="$da/d33/glew_8h.html#aa95edbecc15f2cb8072b81af66d60f5b" title="glTexImage2D" alt="" coords="1051,107,1157,133"/>
+<area shape="rect" id="node16" href="$d1/d75/classPyramidGL.html#a26c4ddce33dbce36f2cd9b8030cde568" title="PyramidGL::GetBaseLevel" alt="" coords="793,588,970,615"/>
+<area shape="rect" id="node17" href="$df/da6/classGLTexImage.html#ac3a15a06aac93511997c876cf4a2e175" title="GLTexImage::GetDrawWidth" alt="" coords="786,132,977,159"/>
+<area shape="rect" id="node18" href="$df/da6/classGLTexImage.html#a14d04508d48392c4f705a44bec04fa05" title="GLTexImage::GetDrawHeight" alt="" coords="784,183,979,209"/>
+<area shape="rect" id="node19" href="$df/da6/classGLTexImage.html#aeb3373705e8eae0feac654a24ac80321" title="GLTexImage::AttachToFBO" alt="" coords="789,284,974,311"/>
+<area shape="rect" id="node20" href="$df/da6/classGLTexImage.html#acfe4c5231e3e4e64a914bf947498caf2" title="GLTexImage::GetImgWidth" alt="" coords="790,335,973,361"/>
+<area shape="rect" id="node21" href="$df/da6/classGLTexImage.html#a0a5bef9bbb86e30e0fac7baa6e7380a0" title="GLTexImage::GetImgHeight" alt="" coords="788,385,975,412"/>
+<area shape="rect" id="node22" href="$d1/d75/classPyramidGL.html#adc9f9256e92f0d2fccb5e992b0775ba6" title="PyramidGL::GetTextureStorageSize" alt="" coords="766,233,997,260"/>
+<area shape="rect" id="node23" href="$d1/d75/classPyramidGL.html#ab3096e88d1558cb4ad876a19597fa0f7" title="PyramidGL::GetAlignedStorageSize" alt="" coords="766,487,997,513"/>
+<area shape="rect" id="node24" href="$df/da6/classGLTexImage.html#a2d2fb8f7b78e537c8afef1f4615fa9b2" title="GLTexImage::GetTexWidth" alt="" coords="790,436,973,463"/>
+<area shape="rect" id="node25" href="$df/da6/classGLTexImage.html#acf5811dc18277b8f6284867198b7d87a" title="GLTexImage::GetTexHeight" alt="" coords="788,537,975,564"/>
+<area shape="rect" id="node27" href="$d9/d4e/classShaderBag.html#ac8fe5f71119754e2dc994a4dc0b8b3d6" title="ShaderBag::SelectInitial\lSmoothingFilter" alt="" coords="519,675,681,717"/>
+<area shape="rect" id="node28" href="$dc/d5a/classSiftParam.html#a27547510363d25d5586a1d0f45521fe3" title="SiftParam::GetInitialSmooth\lSigma" alt="" coords="789,741,974,782"/>
+</map>

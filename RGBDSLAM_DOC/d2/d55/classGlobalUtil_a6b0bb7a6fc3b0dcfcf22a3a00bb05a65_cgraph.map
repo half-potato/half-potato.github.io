@@ -1,0 +1,5 @@
+<map id="GlobalUtil::StopTimer" name="GlobalUtil::StopTimer">
+<area shape="rect" id="node2" href="$d9/d98/classClockTimer.html#a7506d8fad1473bf4f3bdfb9e8590a6c3" title="ClockTimer::StopTimer" alt="" coords="200,31,357,57"/>
+<area shape="rect" id="node3" href="$d9/d98/classClockTimer.html#a23cf363d1025bb1a93951d9ccdabc639" title="ClockTimer::ClockMS" alt="" coords="427,5,578,32"/>
+<area shape="rect" id="node4" href="$d9/d98/classClockTimer.html#a5a6919057a81f4843619032cab692091" title="ClockTimer::GetElapsedTime" alt="" coords="405,56,600,83"/>
+</map>

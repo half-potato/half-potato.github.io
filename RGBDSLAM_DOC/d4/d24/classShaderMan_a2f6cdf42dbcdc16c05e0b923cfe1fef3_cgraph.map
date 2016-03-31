@@ -1,0 +1,28 @@
+<map id="ShaderMan::FilterInitialImage" name="ShaderMan::FilterInitialImage">
+<area shape="rect" id="node2" href="$d4/d24/classShaderMan.html#a8c8bb51633e544fd58c85f116a32be38" title="ShaderMan::FilterImage" alt="" coords="211,302,373,328"/>
+<area shape="rect" id="node3" href="$df/da6/classGLTexImage.html#a1acb850551c1f74e950af75e78b66440" title="GLTexImage::FillMargin" alt="" coords="438,124,599,151"/>
+<area shape="rect" id="node11" href="$d9/d26/classProgramGPU.html#acd625b26fa073fc83ec0be9badb29635" title="ProgramGPU::UseProgram" alt="" coords="945,7,1127,34"/>
+<area shape="rect" id="node13" href="$df/da6/classGLTexImage.html#aeb3373705e8eae0feac654a24ac80321" title="GLTexImage::AttachToFBO" alt="" coords="426,175,611,202"/>
+<area shape="rect" id="node14" href="$df/da6/classGLTexImage.html#a6df86f3c5a5bf3485c25236e317b4013" title="GLTexImage::BindTex" alt="" coords="442,327,595,354"/>
+<area shape="rect" id="node16" href="$df/da6/classGLTexImage.html#a1829045508d6dac9fa58842bdc7d5fc9" title="GLTexImage::FitTexViewPort" alt="" coords="421,226,616,252"/>
+<area shape="rect" id="node17" href="$df/da6/classGLTexImage.html#ab991a4b37a9d9a3e6490549b50253729" title="GLTexImage::DrawQuad" alt="" coords="435,276,602,303"/>
+<area shape="rect" id="node23" href="$df/da6/classGLTexImage.html#a70131f7165604c4245edab05dce9579b" title="GLTexImage::DetachFBO" alt="" coords="431,378,606,404"/>
+<area shape="rect" id="node24" href="$da/d33/glew_8h.html#a32df7ba224618f3a64723debf23835dd" title="glFinish" alt="" coords="485,428,552,455"/>
+<area shape="rect" id="node25" href="$df/da6/classGLTexImage.html#ac0824f2c65a2d96d3e109bd3395849d4" title="GLTexImage::UnbindTex" alt="" coords="435,479,603,506"/>
+<area shape="rect" id="node26" href="$d4/d24/classShaderMan.html#a9e0bda881ceb8f67650029155d23c4aa" title="ShaderMan::UnloadProgram" alt="" coords="425,530,612,556"/>
+<area shape="rect" id="node4" href="$d2/d55/classGlobalUtil.html#a30830c22f7574d8d6f5a5b0a0b31ad50" title="GlobalUtil::FitViewPort" alt="" coords="703,175,857,202"/>
+<area shape="rect" id="node10" href="$d4/d24/classShaderMan.html#a51654753475e870172a024269dab34e8" title="ShaderMan::UseShaderMarginCopy" alt="" coords="665,66,895,92"/>
+<area shape="rect" id="node5" href="$da/d33/glew_8h.html#ae9ebc290561b3321b629610807155a35" title="glGetIntegerv" alt="" coords="986,124,1086,151"/>
+<area shape="rect" id="node6" href="$da/d33/glew_8h.html#a8e93835e91933b7078c88f905dd8599c" title="glViewport" alt="" coords="995,175,1077,202"/>
+<area shape="rect" id="node7" href="$da/d33/glew_8h.html#af14e38e22806d0220680b52edbc3bcef" title="glMatrixMode" alt="" coords="986,226,1086,252"/>
+<area shape="rect" id="node8" href="$da/d33/glew_8h.html#a6577472f85b23086331edadaf0311a49" title="glLoadIdentity" alt="" coords="985,276,1087,303"/>
+<area shape="rect" id="node9" href="$da/d33/glew_8h.html#a2d92120b1fad876057dfd00e2d942525" title="glOrtho" alt="" coords="1004,327,1068,354"/>
+<area shape="rect" id="node12" href="$d9/d4e/classShaderBag.html#a78f527ba338ad1684993cd3c442a8846" title="ShaderBag::SetMarginCopy\lParam" alt="" coords="944,58,1128,100"/>
+<area shape="rect" id="node15" href="$da/d33/glew_8h.html#a940f58f3728713267a58e2d09ff602b2" title="glBindTexture" alt="" coords="729,479,831,506"/>
+<area shape="rect" id="node18" href="$da/d33/glew_8h.html#a98964453975519f92d6cc59ef77f7436" title="glBegin" alt="" coords="747,226,813,252"/>
+<area shape="rect" id="node19" href="$da/d33/glew_8h.html#a09db6f9fa0d39ef7e3919e6212296ece" title="glTexCoord2f" alt="" coords="730,276,830,303"/>
+<area shape="rect" id="node20" href="$da/d33/glew_8h.html#a474f4498ace02f86e7f299eb8bf27da3" title="glVertex2f" alt="" coords="739,327,821,354"/>
+<area shape="rect" id="node21" href="$da/d33/glew_8h.html#abbff207d1fa71b296ff35b149cef7238" title="glEnd" alt="" coords="753,378,807,404"/>
+<area shape="rect" id="node22" href="$da/d33/glew_8h.html#afb3e087fc26a916a909d46ead9cfc44a" title="glFlush" alt="" coords="748,428,812,455"/>
+<area shape="rect" id="node27" href="$d9/d4e/classShaderBag.html#aacdddcf6984572013aec63a1d97b24b2" title="ShaderBag::UnloadProgram" alt="" coords="688,530,872,556"/>
+</map>

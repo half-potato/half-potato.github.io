@@ -1,0 +1,4 @@
+<map id="ANNbd_tree" name="ANNbd_tree">
+<area shape="rect" id="node2" href="$d2/d8c/classANNkd__tree.html" title="{ANNkd_tree\n|# dim\l# n_pts\l# bkt_size\l# pts\l# pidx\l# root\l# bnd_box_lo\l# bnd_box_hi\l|+ ANNkd_tree()\l+ ANNkd_tree()\l+ ANNkd_tree()\l+ ~ANNkd_tree()\l+ annkSearch()\l+ annkPriSearch()\l+ annkFRSearch()\l+ theDim()\l+ nPoints()\l+ thePoints()\l+ Print()\l+ Dump()\l+ getStats()\l# SkeletonTree()\l}" alt="" coords="5,205,133,576"/>
+<area shape="rect" id="node3" href="$d5/d76/classANNpointSet.html" title="{ANNpointSet\n||+ ~ANNpointSet()\l+ annkSearch()\l+ annkFRSearch()\l+ theDim()\l+ nPoints()\l+ thePoints()\l}" alt="" coords="5,6,133,157"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="dgc::gicp::GICPOptimizer::PlotError" name="dgc::gicp::GICPOptimizer::PlotError">
+<area shape="rect" id="node2" href="$d8/d8c/transform_8cpp.html#a577eefedaedc14603255940baa8d28a1" title="dgc_transform_get_translation" alt="" coords="227,5,424,32"/>
+<area shape="rect" id="node3" href="$d8/d8c/transform_8cpp.html#a80755b265d5fd3253537c92427e5c3c2" title="dgc_transform_get_rotation" alt="" coords="235,56,415,83"/>
+<area shape="rect" id="node4" href="$d8/d8c/transform_8cpp.html#a73a134c8072cb95698ebb4ea6f5f0d96" title="dgc_transform_copy" alt="" coords="255,107,395,133"/>
+</map>

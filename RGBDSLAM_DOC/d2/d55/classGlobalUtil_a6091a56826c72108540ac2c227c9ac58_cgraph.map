@@ -1,0 +1,5 @@
+<map id="GlobalUtil::CreateWindowEZ" name="GlobalUtil::CreateWindowEZ">
+<area shape="rect" id="node2" href="$d9/d43/classLiteWindow.html#a368910a4b6fd6747d5b99dcda49951ae" title="LiteWindow::IsValid" alt="" coords="263,5,401,32"/>
+<area shape="rect" id="node3" href="$d9/d43/classLiteWindow.html#a9e423d4b64bd222852cac5942f94a836" title="LiteWindow::Create" alt="" coords="263,56,401,83"/>
+<area shape="rect" id="node4" href="$d9/d43/classLiteWindow.html#ab916531bcf10dc96432263bd3a87b8fb" title="LiteWindow::MakeCurrent" alt="" coords="245,107,419,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SiftMatchGPU" name="SiftMatchGPU">
+<area shape="rect" id="node2" href="$d3/d80/classComboSiftGPU.html" title="{ComboSiftGPU\n||+ operator new()\l}" alt="" coords="16,411,132,488"/>
+<area shape="rect" id="node4" href="$dc/d42/classSiftMatchGL.html" title="{SiftMatchGL\n||+ SiftMatchGL()\l+ ~SiftMatchGL()\l+ InitSiftMatch()\l+ SetMaxSift()\l+ SetDescriptors()\l+ SetDescriptors()\l+ SetFeautreLocation()\l+ GetSiftMatch()\l+ GetGuidedSiftMatch()\l}" alt="" coords="157,352,316,547"/>
+<area shape="rect" id="node3" href="$d1/db7/classServerSiftGPU.html" title="{ServerSiftGPU\n||+ ServerSiftGPU()\l+ ~ServerSiftGPU()\l+ ParseParam()\l+ VerifyContextGL()\l+ RunSIFT()\l+ RunSIFT()\l+ RunSIFT()\l+ RunSIFT()\l+ AllocatePyramid()\l+ GetFeatureNum()\land 21 more...\l}" alt="" coords="5,595,144,819"/>
+</map>

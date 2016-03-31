@@ -1,0 +1,5 @@
+<map id="SiftPyramid" name="SiftPyramid">
+<area shape="rect" id="node2" href="$d2/d55/classGlobalUtil.html" title="{GlobalUtil\n||+ CLOCK()\l+ StopTimer()\l+ StartTimer()\l+ GetElapsedTime()\l+ FitViewPort()\l+ SetTextureParameter()\l+ SetTextureParameterUS()\l+ CheckErrorsGL()\l+ CheckFramebufferStatus()\l+ SelectDisplay()\land 6 more...\l}" alt="" coords="5,317,192,541"/>
+<area shape="rect" id="node3" href="$db/d04/classGlobalParam.html" title="{GlobalParam\n|+ _texTarget\l+ _iTexFormat\l+ _texMaxDim\l+ _texMaxDimGL\l+ _texMinDim\l+ _MemCapGPU\l+ _FitMemoryCap\l+ _verbose\l+ _timingS\l+ _timingO\land 53 more...\l|}" alt="" coords="35,5,161,229"/>
+<area shape="rect" id="node4" href="$dc/d5a/classSiftParam.html" title="{SiftParam\n|+ _sigma\l+ _sigma_skip0\l+ _sigma_skip1\l+ _sigma0\l+ _sigman\l+ _sigma_num\l+ _dog_level_num\l+ _level_num\l+ _level_min\l+ _level_max\l+ _level_ds\l+ _dog_threshold\l+ _edge_threshold\l|+ ParseSiftParam()\l+ GetLevelSigma()\l+ GetInitialSmoothSigma()\l+ SiftParam()\l}" alt="" coords="217,281,393,578"/>
+</map>

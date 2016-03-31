@@ -1,0 +1,4 @@
+<map id="GLTexImage" name="GLTexImage">
+<area shape="rect" id="node2" href="$d2/d55/classGlobalUtil.html" title="{GlobalUtil\n||+ CLOCK()\l+ StopTimer()\l+ StartTimer()\l+ GetElapsedTime()\l+ FitViewPort()\l+ SetTextureParameter()\l+ SetTextureParameterUS()\l+ CheckErrorsGL()\l+ CheckFramebufferStatus()\l+ SelectDisplay()\land 6 more...\l}" alt="" coords="5,277,192,501"/>
+<area shape="rect" id="node3" href="$db/d04/classGlobalParam.html" title="{GlobalParam\n|+ _texTarget\l+ _iTexFormat\l+ _texMaxDim\l+ _texMaxDimGL\l+ _texMinDim\l+ _MemCapGPU\l+ _FitMemoryCap\l+ _verbose\l+ _timingS\l+ _timingO\land 53 more...\l|}" alt="" coords="35,5,161,229"/>
+</map>

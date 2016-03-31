@@ -1,0 +1,12 @@
+<map id="PyramidGL::SetLevelFeatureNum" name="PyramidGL::SetLevelFeatureNum">
+<area shape="rect" id="node2" href="$d1/d75/classPyramidGL.html#adc9f9256e92f0d2fccb5e992b0775ba6" title="PyramidGL::GetTextureStorageSize" alt="" coords="273,5,503,32"/>
+<area shape="rect" id="node3" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="591,31,630,57"/>
+<area shape="rect" id="node4" href="$df/da6/classGLTexImage.html#a2d2fb8f7b78e537c8afef1f4615fa9b2" title="GLTexImage::GetTexWidth" alt="" coords="297,107,479,133"/>
+<area shape="rect" id="node5" href="$df/da6/classGLTexImage.html#acf5811dc18277b8f6284867198b7d87a" title="GLTexImage::GetTexHeight" alt="" coords="295,157,481,184"/>
+<area shape="rect" id="node6" href="$df/da6/classGLTexImage.html#a0e8739a59cc418ee4b5b1146d13fae0a" title="GLTexImage::InitTexture" alt="" coords="305,208,471,235"/>
+<area shape="rect" id="node11" href="$df/da6/classGLTexImage.html#a57d1a67486a2d19508b4b4bb65cb0e88" title="GLTexImage::SetImageSize" alt="" coords="295,259,481,285"/>
+<area shape="rect" id="node7" href="$da/d33/glew_8h.html#a99e77ebf136a8c511226cf705049a305" title="glGenTextures" alt="" coords="557,132,664,159"/>
+<area shape="rect" id="node8" href="$da/d33/glew_8h.html#ac8dbabff536e520bc700960dadd8d787" title="glTexParameteri" alt="" coords="552,183,669,209"/>
+<area shape="rect" id="node9" href="$da/d33/glew_8h.html#a414668e7628d609ce501994bd609bfdf" title="glTexEnvi" alt="" coords="571,233,651,260"/>
+<area shape="rect" id="node10" href="$da/d33/glew_8h.html#aa95edbecc15f2cb8072b81af66d60f5b" title="glTexImage2D" alt="" coords="557,284,664,311"/>
+</map>

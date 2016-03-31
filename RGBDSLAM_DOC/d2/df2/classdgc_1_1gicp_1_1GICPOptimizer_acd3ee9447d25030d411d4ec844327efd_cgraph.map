@@ -1,0 +1,6 @@
+<map id="dgc::gicp::GICPOptimizer::Optimize" name="dgc::gicp::GICPOptimizer::Optimize">
+<area shape="rect" id="node2" href="$d8/d8c/transform_8cpp.html#a577eefedaedc14603255940baa8d28a1" title="dgc_transform_get_translation" alt="" coords="227,5,424,32"/>
+<area shape="rect" id="node3" href="$d8/d8c/transform_8cpp.html#a80755b265d5fd3253537c92427e5c3c2" title="dgc_transform_get_rotation" alt="" coords="235,56,415,83"/>
+<area shape="rect" id="node4" href="$d2/df2/classdgc_1_1gicp_1_1GICPOptimizer.html#aa8395ce4e082542f014b0a61f7980bb0" title="dgc::gicp::GICPOptimizer\l::Status" alt="" coords="239,107,411,149"/>
+<area shape="rect" id="node5" href="$d8/d8c/transform_8cpp.html#a9d4cb81f62f7583edc6f7da47f174c9b" title="dgc_transform_identity" alt="" coords="248,173,403,200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BasicTestWin" name="BasicTestWin">
+<area shape="rect" id="node2" href="$d4/d08/classGLTestWnd.html" title="{GLTestWnd\n||+ UpdateDisplay()\l+ SetWindowTitle()\l+ SetDisplaySize()\l+ ParseCommandLine()\l+ glPaint()\l+ glResize()\l+ glCreateRC()\l+ GLTestWnd()\l+ GLTestWnd()\l+ ~GLTestWnd()\l}" alt="" coords="5,470,164,679"/>
+<area shape="rect" id="node3" href="$d9/dfc/classTestWinGlut.html" title="{TestWinGlut\n||+ SetDisplaySize()\l+ UpdateDisplay()\l+ SetWindowTitle()\l+ TestWinGlut()\l+ ~TestWinGlut()\l+ motion()\l+ Run()\l}" alt="" coords="190,492,324,657"/>
+</map>

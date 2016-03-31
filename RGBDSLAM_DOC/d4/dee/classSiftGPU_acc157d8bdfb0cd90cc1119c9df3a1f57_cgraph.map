@@ -1,0 +1,11 @@
+<map id="SiftGPU::RunSIFT" name="SiftGPU::RunSIFT">
+<area shape="rect" id="node2" href="$d2/d55/classGlobalUtil.html#ad88109c1e1efc71fdd98a85c51b6321b" title="GlobalUtil::SetGLParam" alt="" coords="187,5,349,32"/>
+<area shape="rect" id="node4" href="$d2/d55/classGlobalUtil.html#aaa5ebd526dfe13eb5eb61fee67c75a10" title="GlobalUtil::StartTimer" alt="" coords="194,56,342,83"/>
+<area shape="rect" id="node7" href="$d2/d55/classGlobalUtil.html#a6b0bb7a6fc3b0dcfcf22a3a00bb05a65" title="GlobalUtil::StopTimer" alt="" coords="195,107,341,133"/>
+<area shape="rect" id="node10" href="$d2/d55/classGlobalUtil.html#a4d0d910aba3a7cffc91c07ee8377f012" title="GlobalUtil::GetElapsedTime" alt="" coords="397,157,581,184"/>
+<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a1beaf822e5a901dc3fe429b68efb77d4" title="glEnable" alt="" coords="453,5,525,32"/>
+<area shape="rect" id="node5" href="$d9/d98/classClockTimer.html#a21afd83f68d30c08892743115f6ea9cd" title="ClockTimer::StartTimer" alt="" coords="410,56,569,83"/>
+<area shape="rect" id="node6" href="$d9/d98/classClockTimer.html#a23cf363d1025bb1a93951d9ccdabc639" title="ClockTimer::ClockMS" alt="" coords="651,81,802,108"/>
+<area shape="rect" id="node8" href="$d9/d98/classClockTimer.html#a7506d8fad1473bf4f3bdfb9e8590a6c3" title="ClockTimer::StopTimer" alt="" coords="411,107,568,133"/>
+<area shape="rect" id="node9" href="$d9/d98/classClockTimer.html#a5a6919057a81f4843619032cab692091" title="ClockTimer::GetElapsedTime" alt="" coords="629,132,824,159"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d1/d0f/ServerSiftGPU_8cpp.html#ab7f82efa5db440235d578daacf60b6fc" title="RunServerLoop" alt="" coords="136,5,248,32"/>
+<area shape="rect" id="node3" href="$d1/d0f/ServerSiftGPU_8cpp.html#a2cab8623166d3e8c458d38ef42c61bda" title="CreateRemoteSiftGPU" alt="" coords="114,56,270,83"/>
+<area shape="rect" id="node4" href="$d4/dee/classSiftGPU.html#ab50cd0cc4d3f46ede220221f6ca46498" title="SiftGPU::ParseParam" alt="" coords="117,107,267,133"/>
+<area shape="rect" id="node7" href="$d4/dee/classSiftGPU.html#a1f45e5fce1b3027e4eda6f2d7cd09d07" title="SiftGPU::VerifyContextGL" alt="" coords="104,157,280,184"/>
+<area shape="rect" id="node8" href="$d4/dee/classSiftGPU.html#a7ecfea9c8fe68cbe0667a5754322222a" title="SiftGPU::RunSIFT" alt="" coords="126,208,258,235"/>
+<area shape="rect" id="node5" href="$d2/d55/classGlobalUtil.html#a22689de5e558d891c11c8fec2e5c2931" title="GlobalUtil::SelectDisplay" alt="" coords="328,107,496,133"/>
+<area shape="rect" id="node6" href="$db/d82/wglew_8h.html#a7b84f5391331438359747d138a86ffe3" title="HDC" alt="" coords="545,107,597,133"/>
+</map>

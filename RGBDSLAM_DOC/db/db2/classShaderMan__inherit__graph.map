@@ -1,0 +1,4 @@
+<map id="ShaderMan" name="ShaderMan">
+<area shape="rect" id="node2" href="$d9/df0/classPyramidNaive.html" title="{PyramidNaive\n|# _texPyramid\l# _auxPyramid\l|+ DestroyPyramidData()\l+ GetSimplifiedOrientation()\l+ GenerateFeatureListCPU()\l+ GetFeatureOrientations()\l+ GenerateFeatureList()\l+ DetectKeypointsEX()\l+ ComputeGradient()\l+ GetLevelTexture()\l+ GetBaseLevel()\l+ GetLevelTexture()\land 7 more...\l}" alt="" coords="5,278,195,517"/>
+<area shape="rect" id="node3" href="$d0/dbc/classPyramidPacked.html" title="{PyramidPacked\n||+ PyramidPacked()\l+ ~PyramidPacked()\l+ DestroyPyramidData()\l+ DetectKeypointsEX()\l+ ComputeGradient()\l+ BuildPyramid()\l+ InitPyramid()\l+ FitPyramid()\l+ ResizePyramid()\l+ FitHistogramPyramid()\land 8 more...\l}" alt="" coords="219,285,383,509"/>
+</map>

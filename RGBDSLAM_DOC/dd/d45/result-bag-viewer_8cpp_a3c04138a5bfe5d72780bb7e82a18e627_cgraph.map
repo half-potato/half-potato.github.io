@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$dd/d49/classGraphical__UI.html#ad0a01cc45a37125ce41fdabcd13defd6" title="Graphical_UI::set2DStream" alt="" coords="111,5,294,32"/>
+<area shape="rect" id="node3" href="$dd/d45/result-bag-viewer_8cpp.html#ad646b07c903705cb6f3ceea25ec88d70" title="Connect Signals and Slots only relevant for the graphical interface. " alt="" coords="145,107,261,133"/>
+<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="351,56,529,83"/>
+<area shape="rect" id="node6" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="129,157,276,184"/>
+<area shape="rect" id="node7" href="$d7/ddd/classBagLoader.html#a84f3de2aad40d79617435afd0e297c53" title="BagLoader::loadBagFileAsync" alt="" coords="104,208,301,235"/>
+<area shape="rect" id="node5" href="$dd/d49/classGraphical__UI.html#a95f3a9d88e87b32a71d6f2142b174877" title="Graphical_UI::getGLViewer" alt="" coords="349,107,531,133"/>
+</map>

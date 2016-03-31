@@ -1,0 +1,23 @@
+<map id="GraphManager::optimizeGraph" name="GraphManager::optimizeGraph">
+<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="1581,443,1758,469"/>
+<area shape="rect" id="node3" href="$d0/d8b/classGraphManager.html#aa29c73b4f404c4f89694f91c9af3e6a6" title="Applies g2o for optimization returns chi2. " alt="" coords="253,333,477,360"/>
+<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="1596,224,1743,251"/>
+<area shape="rect" id="node5" href="$d4/d1a/graph__manager_8cpp.html#a3e690180d75a521b31a3d4b402793d5e" title="fixationOfVertices" alt="" coords="578,275,705,301"/>
+<area shape="rect" id="node6" href="$d0/d8b/classGraphManager.html#a802422b66dc417f4125842b53da8183a" title="GraphManager::last\l_added_cam_vertex_id" alt="" coords="563,326,719,367"/>
+<area shape="rect" id="node7" href="$d4/d08/misc_8h.html#a7bd6e35e893b731601e2239721f03ae9" title="eigenTransf2TF" alt="" coords="585,392,698,419"/>
+<area shape="rect" id="node8" href="$d0/d8b/classGraphManager.html#a5ed6dafc45d6736bb5fbbe0ba5cc1d89" title="GraphManager::stampedTransform\lInWorldFrame" alt="" coords="1291,494,1515,535"/>
+<area shape="rect" id="node10" href="$d0/d8b/classGraphManager.html#a4347303a3197042850f9d2226c70bfc9" title="Broadcast given transform. " alt="" coords="526,123,757,149"/>
+<area shape="rect" id="node12" href="$d0/d8b/classGraphManager.html#a1c8c6572bc4dd18f271496bc7f0d549c" title="GraphManager::updateCloud\lOrigin" alt="" coords="806,174,994,215"/>
+<area shape="rect" id="node13" href="$d0/d8b/classGraphManager.html#a9f80605d0434d29938fd8a7258156c24" title="GraphManager::renderToOctomap" alt="" coords="532,443,751,469"/>
+<area shape="rect" id="node18" href="$d0/d8b/classGraphManager.html#a72b82d3cb977a1901c70c5aebac7c903" title="Return pointer to a list of the optimizers graph edges on the heap(!) " alt="" coords="539,600,744,627"/>
+<area shape="rect" id="node19" href="$d0/d8b/classGraphManager.html#a4aa1914e94c6a0d60f698d45811a01ef" title="Return pointer to a list of the optimizers graph poses on the heap(!) " alt="" coords="549,6,734,47"/>
+<area shape="rect" id="node22" href="$d7/d12/classScopedTimer.html#acb1a3efcc11ddfb39b059611f7e548ab" title="Get time since construction. " alt="" coords="565,173,717,200"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#adaf50ff94906ea43c16b79fe0e3547ab" title="Transform, e.g., from kinematics. " alt="" coords="1563,501,1775,528"/>
+<area shape="rect" id="node11" href="$de/d83/graph__manager_8h.html#a2e10953ff4a21d6e02d9574a3b2740b8" title="Send node&#39;s pointcloud with given publisher and timestamp. " alt="" coords="851,123,949,149"/>
+<area shape="rect" id="node14" href="$d7/ddc/classColorOctomapServer.html#ac16ce374c11799891e316f637acbd2e7" title="ColorOctomapServer\l::insertCloudCallback" alt="" coords="827,377,973,418"/>
+<area shape="rect" id="node17" href="$df/dd0/classNode.html#ade58f2370cb8542f4bc4c1350a3ba462" title="erase the points from the cloud to save memory " alt="" coords="823,325,977,352"/>
+<area shape="rect" id="node15" href="$d7/ddc/classColorOctomapServer.html#ab96bf80f442fcebd4e269b40dc31f841" title="ColorOctomapServer\l::insertCloudCallbackCommon" alt="" coords="1043,309,1243,350"/>
+<area shape="rect" id="node16" href="$d7/ddc/classColorOctomapServer.html#ac7cca7bcabafb3876d7ad4bb3a6b6c8f" title="Clear octomap and reset values to paramters from parameter server. " alt="" coords="1331,275,1475,317"/>
+<area shape="rect" id="node20" href="$d4/d08/misc_8h.html#a2b945fc2871e0006d856539080d3e0a0" title="eigenTF2QMatrix" alt="" coords="839,13,961,40"/>
+<area shape="rect" id="node21" href="$d4/d08/misc_8h.html#afe9e1e85e61b3925b1121b6a11177591" title="printQMatrix4x4" alt="" coords="1085,13,1200,40"/>
+</map>
