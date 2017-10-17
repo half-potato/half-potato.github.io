@@ -1,9 +1,0 @@
-<map id="GraphManager::saveIndividualCloudsToFile" name="GraphManager::saveIndividualCloudsToFile">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="517,5,694,32"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="532,57,679,84"/>
-<area shape="rect" id="node4" href="$d4/d08/misc_8h.html#a7bd6e35e893b731601e2239721f03ae9" title="eigenTransf2TF" alt="" coords="549,165,662,192"/>
-<area shape="rect" id="node5" href="$df/dd0/classNode.html#adaf50ff94906ea43c16b79fe0e3547ab" title="Transform, e.g., from kinematics. " alt="" coords="499,220,711,247"/>
-<area shape="rect" id="node6" href="$d0/d8b/classGraphManager.html#a0ca3bc82d7532c35ad52294ab9f2d0e4" title="Compute the tranformation between (sensor) Base and Fixed (Map) frame. " alt="" coords="253,105,451,146"/>
-<area shape="rect" id="node8" href="$df/dd0/classNode.html#aa714d9c36f25c4a40d69b6bd100c10fe" title="Transform, e.g., from MoCap. " alt="" coords="500,271,711,297"/>
-<area shape="rect" id="node7" href="$d7/d5f/misc_8cpp.html#a620c2e3dd4f6b457a8425876e8632981" title="Print tf::Transform via ROS_INFO. " alt="" coords="552,112,659,139"/>
-</map>

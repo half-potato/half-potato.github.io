@@ -1,5 +1,0 @@
-<map id="GraphManager::addKeyframe" name="GraphManager::addKeyframe">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="257,5,434,32"/>
-<area shape="rect" id="node3" href="$df/dd0/classNode.html#ade58f2370cb8542f4bc4c1350a3ba462" title="erase the points from the cloud to save memory " alt="" coords="269,56,422,83"/>
-<area shape="rect" id="node4" href="$df/dd0/classNode.html#ac0d0027d1f1ac83c942d007629268171" title="Node::clearFeatureInformation" alt="" coords="246,107,445,133"/>
-</map>

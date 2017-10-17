@@ -1,7 +1,0 @@
-<map id="sl_fair_split" name="sl_fair_split">
-<area shape="rect" id="node2" href="$d9/d87/kd__util_8cpp.html#a8de10b7ed69bdf2b2db334bf5be7e015" title="annSpread" alt="" coords="158,5,242,32"/>
-<area shape="rect" id="node3" href="$d9/d87/kd__util_8cpp.html#a79e0b5d9056cd12db02b51f8b69c464a" title="annMinMax" alt="" coords="155,56,245,83"/>
-<area shape="rect" id="node4" href="$d9/d87/kd__util_8cpp.html#a3b25673b846dead901bb0d9fc4942ac5" title="annSplitBalance" alt="" coords="142,107,258,133"/>
-<area shape="rect" id="node5" href="$d9/d87/kd__util_8cpp.html#a204cfb519eaf094b1310c8cd3470154f" title="annPlaneSplit" alt="" coords="149,157,251,184"/>
-<area shape="rect" id="node6" href="$d9/d87/kd__util_8cpp.html#ada35176903dab27160ac24f82b17c8dd" title="annMedianSplit" alt="" coords="145,208,255,235"/>
-</map>

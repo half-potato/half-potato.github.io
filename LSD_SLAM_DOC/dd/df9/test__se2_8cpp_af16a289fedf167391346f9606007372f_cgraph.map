@@ -1,6 +1,0 @@
-<map id="tests" name="tests">
-<area shape="rect" id="node2" href="$db/d19/classSophus_1_1Tests.html#aa556351b6ec42dbd798ccb2d89d25731" title="Sophus::Tests::setGroupElements" alt="" coords="105,5,327,32"/>
-<area shape="rect" id="node3" href="$db/d19/classSophus_1_1Tests.html#ac56be32b9b622434bbb63daeba0d71f1" title="Sophus::Tests::setTangent\lVectors" alt="" coords="126,57,306,98"/>
-<area shape="rect" id="node4" href="$db/d19/classSophus_1_1Tests.html#a10e71031aad3a2b0f27f3c7e3910795d" title="Sophus::Tests::setPoints" alt="" coords="131,123,301,149"/>
-<area shape="rect" id="node5" href="$db/d19/classSophus_1_1Tests.html#ae2f469f25d1a7478466480725be2cf97" title="Sophus::Tests::runAllTests" alt="" coords="125,173,307,200"/>
-</map>

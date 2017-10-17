@@ -1,9 +1,0 @@
-<map id="observationLikelihood" name="observationLikelihood">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="529,20,706,47"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="544,122,691,148"/>
-<area shape="rect" id="node4" href="$db/d82/wglew_8h.html#a500a82aecba06f4550f6849b8099ca21" title="int" alt="" coords="243,96,282,123"/>
-<area shape="rect" id="node5" href="$d7/d5f/misc_8cpp.html#a8e7a4140590e8656e82d7c4734020815" title="round" alt="" coords="235,147,290,174"/>
-<area shape="rect" id="node6" href="$de/dd9/misc2_8h.html#a9fd104b651d76a0fd52bc23c6588e71f" title="depth_covariance" alt="" coords="201,46,325,72"/>
-<area shape="rect" id="node8" href="$d7/d5f/misc_8cpp.html#a3ef5ad497ff56ad294ad4ed2bc7d7660" title="cdf" alt="" coords="243,248,283,275"/>
-<area shape="rect" id="node7" href="$de/dd9/misc2_8h.html#a44186cfabec64587c7bc742ae9dab267" title="depth_std_dev" alt="" coords="373,46,480,72"/>
-</map>

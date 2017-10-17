@@ -1,5 +1,0 @@
-<map id="GraphManager::occupancyFilterClouds" name="GraphManager::occupancyFilterClouds">
-<area shape="rect" id="node2" href="$d7/ddc/classColorOctomapServer.html#a10e8ac239e1d65180d333e4111e813a2" title="Filter cloud by occupancy of voxels, e.g. remove points in free space. " alt="" coords="279,5,423,46"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="262,71,439,97"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="277,121,424,148"/>
-</map>

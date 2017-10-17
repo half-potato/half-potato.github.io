@@ -1,7 +1,0 @@
-<map id="PyramidNaive::FitHistogramPyramid" name="PyramidNaive::FitHistogramPyramid">
-<area shape="rect" id="node2" href="$d9/df0/classPyramidNaive.html#a38627fede62de0bab2af2f76daf0e7ca" title="PyramidNaive::GetBaseLevel" alt="" coords="244,5,439,32"/>
-<area shape="rect" id="node3" href="$df/da6/classGLTexImage.html#acfe4c5231e3e4e64a914bf947498caf2" title="GLTexImage::GetImgWidth" alt="" coords="250,56,433,83"/>
-<area shape="rect" id="node4" href="$df/da6/classGLTexImage.html#a0a5bef9bbb86e30e0fac7baa6e7380a0" title="GLTexImage::GetImgHeight" alt="" coords="248,107,435,133"/>
-<area shape="rect" id="node5" href="$df/da6/classGLTexImage.html#a57d1a67486a2d19508b4b4bb65cb0e88" title="GLTexImage::SetImageSize" alt="" coords="248,157,435,184"/>
-<area shape="rect" id="node6" href="$df/da6/classGLTexImage.html#ac3e3d4ecb428287ae07ffca97473a849" title="GLTexImage::ZeroHistoMargin" alt="" coords="241,208,442,235"/>
-</map>

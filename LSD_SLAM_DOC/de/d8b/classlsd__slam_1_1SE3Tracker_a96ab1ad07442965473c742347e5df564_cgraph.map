@@ -1,8 +1,0 @@
-<map id="lsd_slam::SE3Tracker::checkPermaRefOverlap" name="lsd_slam::SE3Tracker::checkPermaRefOverlap">
-<area shape="rect" id="node2" href="$d0/d8c/classSophus_1_1SE3GroupBase.html#abb7b5dbc57317547710d3c6fb6fd8484" title="Sophus::SE3GroupBase\l::cast" alt="" coords="243,5,407,46"/>
-<area shape="rect" id="node3" href="$dd/d08/classlsd__slam_1_1Frame.html#a3f14a1c43b6cb21d31274f880b0bf36b" title="lsd_slam::Frame::width" alt="" coords="246,71,405,97"/>
-<area shape="rect" id="node4" href="$dd/d08/classlsd__slam_1_1Frame.html#a014d19bf6ffba0f0c0b8b684f9afb0b0" title="lsd_slam::Frame::height" alt="" coords="244,121,407,148"/>
-<area shape="rect" id="node5" href="$dd/d08/classlsd__slam_1_1Frame.html#adeb235dc3e4a4d8fcf622b5771299c31" title="lsd_slam::Frame::K" alt="" coords="257,172,393,199"/>
-<area shape="rect" id="node6" href="$d0/d8c/classSophus_1_1SE3GroupBase.html#adbfc9d61a4a27f9b5e73fa22519e61de" title="Sophus::SE3GroupBase\l::rotationMatrix" alt="" coords="243,223,407,265"/>
-<area shape="rect" id="node7" href="$dd/d3d/classSophus_1_1SE3Group.html#a1bfd300de4529a2f6ba0ff5baecea98e" title="Mutator of translation vector. " alt="" coords="224,289,427,316"/>
-</map>

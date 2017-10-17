@@ -1,6 +1,0 @@
-<map id="GraphManager" name="GraphManager">
-<area shape="rect" id="node3" href="$d3/dc0/classMatchingResult.html" title="{MatchingResult\n|+ inlier_matches\l+ all_matches\l+ rmse\l+ ransac_trafo\l+ final_trafo\l+ icp_trafo\l+ inlier_points\l+ outlier_points\l+ occluded_points\l+ all_points\l|+ MatchingResult()\l+ toString()\l}" alt="" coords="100,192,233,416"/>
-<area shape="rect" id="node4" href="$d5/d79/structLoadedEdge3D.html" title="{LoadedEdge3D\n|+ id1\l+ id2\l+ transform\l+ informationMatrix\l|}" alt="" coords="99,6,233,127"/>
-<area shape="rect" id="node5" href="$d7/ddc/classColorOctomapServer.html" title="{ColorOctomapServer\n|# m_octoMap\l# rendering\l|+ ColorOctomapServer()\l+ ~ColorOctomapServer()\l+ reset()\l+ save()\l+ insertCloudCallback()\l+ insertCloudCallbackCommon()\l+ occupancyFilter()\l+ render()\l}" alt="" coords="258,207,469,401"/>
-<area shape="rect" id="node6" href="$da/dc3/classRenderable.html" title="{Renderable\n||+ render()\l}" alt="" coords="320,28,408,105"/>
-</map>

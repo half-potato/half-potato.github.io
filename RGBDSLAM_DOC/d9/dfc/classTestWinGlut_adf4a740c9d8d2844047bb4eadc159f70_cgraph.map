@@ -1,6 +1,0 @@
-<map id="TestWinGlut::motion" name="TestWinGlut::motion">
-<area shape="rect" id="node2" href="$d9/db8/glut_8h.html#a4a11ef30db9af162d2efe379cb4548dd" title="glutGetWindow" alt="" coords="234,5,345,32"/>
-<area shape="rect" id="node3" href="$d4/da2/classBasicTestWin.html#a2a2854a1d847a8032d957e612ba2215e" title="BasicTestWin::MoveMouse" alt="" coords="198,56,381,83"/>
-<area shape="rect" id="node4" href="$d5/d6b/classGlTransform.html#af4680ecb9ba68883d7e82c99ebb07959" title="GlTransform::translate" alt="" coords="453,31,605,57"/>
-<area shape="rect" id="node5" href="$d4/da2/classBasicTestWin.html#a1c62f973b10f7c25992f9d14fca40458" title="BasicTestWin::UpdateDisplay" alt="" coords="430,81,629,108"/>
-</map>

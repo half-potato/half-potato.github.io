@@ -1,5 +1,0 @@
-<map id="GraphManager::writeOctomap" name="GraphManager::writeOctomap">
-<area shape="rect" id="node2" href="$d7/ddc/classColorOctomapServer.html#a6417ff01f1d2878b1ef7f036368e787f" title="ColorOctomapServer\l::save" alt="" coords="251,23,395,65"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="443,5,621,32"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="459,56,605,83"/>
-</map>

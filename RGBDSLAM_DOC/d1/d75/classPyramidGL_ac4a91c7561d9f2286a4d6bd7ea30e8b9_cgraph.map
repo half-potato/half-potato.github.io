@@ -1,8 +1,0 @@
-<map id="PyramidGL::CleanUpAfterSIFT" name="PyramidGL::CleanUpAfterSIFT">
-<area shape="rect" id="node2" href="$df/da6/classGLTexImage.html#af3929f0108cc3c43983c0fc952199869" title="GLTexImage::UnbindMultiTex" alt="" coords="257,5,453,32"/>
-<area shape="rect" id="node4" href="$d4/d24/classShaderMan.html#a9e0bda881ceb8f67650029155d23c4aa" title="ShaderMan::UnloadProgram" alt="" coords="261,56,448,83"/>
-<area shape="rect" id="node6" href="$d3/d06/classFrameBufferObject.html#a4024a498f04bef57901959844891f3a0" title="FrameBufferObject::\lDeleteGlobalFBO" alt="" coords="285,107,425,149"/>
-<area shape="rect" id="node7" href="$d2/d55/classGlobalUtil.html#a042c1580f394f2a87e82ba8675352992" title="GlobalUtil::CleanupOpenGL" alt="" coords="263,173,446,200"/>
-<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a940f58f3728713267a58e2d09ff602b2" title="glBindTexture" alt="" coords="542,5,645,32"/>
-<area shape="rect" id="node5" href="$d9/d4e/classShaderBag.html#aacdddcf6984572013aec63a1d97b24b2" title="ShaderBag::UnloadProgram" alt="" coords="501,56,685,83"/>
-</map>

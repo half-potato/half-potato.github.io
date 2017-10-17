@@ -1,7 +1,0 @@
-<map id="SiftMatchGL::SetFeautreLocation" name="SiftMatchGL::SetFeautreLocation">
-<area shape="rect" id="node2" href="$df/da6/classGLTexImage.html#a57d1a67486a2d19508b4b4bb65cb0e88" title="GLTexImage::SetImageSize" alt="" coords="269,5,456,32"/>
-<area shape="rect" id="node3" href="$df/da6/classGLTexImage.html#a6df86f3c5a5bf3485c25236e317b4013" title="GLTexImage::BindTex" alt="" coords="286,56,439,83"/>
-<area shape="rect" id="node5" href="$da/d33/glew_8h.html#a83b997226c74c32cab88fef3fe9d2105" title="glTexSubImage2D" alt="" coords="297,107,428,133"/>
-<area shape="rect" id="node6" href="$df/da6/classGLTexImage.html#ac0824f2c65a2d96d3e109bd3395849d4" title="GLTexImage::UnbindTex" alt="" coords="279,157,447,184"/>
-<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a940f58f3728713267a58e2d09ff602b2" title="glBindTexture" alt="" coords="505,107,607,133"/>
-</map>

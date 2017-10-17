@@ -1,5 +1,0 @@
-<map id="ColorOctomapServer::ColorOctomapServer" name="ColorOctomapServer::ColorOctomapServer">
-<area shape="rect" id="node2" href="$d7/ddc/classColorOctomapServer.html#ac7cca7bcabafb3876d7ad4bb3a6b6c8f" title="Clear octomap and reset values to paramters from parameter server. " alt="" coords="205,23,349,65"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="398,5,575,32"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="413,56,560,83"/>
-</map>

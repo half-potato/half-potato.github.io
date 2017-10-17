@@ -1,5 +1,0 @@
-<map id="GraphManager::resetGraph" name="GraphManager::resetGraph">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="489,5,666,32"/>
-<area shape="rect" id="node3" href="$d0/d8b/classGraphManager.html#a372079b96a4b36722f94a81fe79c278c" title="Instanciate the optimizer with the desired backend. " alt="" coords="233,31,439,57"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="504,68,651,95"/>
-</map>

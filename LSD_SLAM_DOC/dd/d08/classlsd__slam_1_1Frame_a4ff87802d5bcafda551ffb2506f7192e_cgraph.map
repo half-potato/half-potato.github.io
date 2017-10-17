@@ -1,6 +1,0 @@
-<map id="lsd_slam::Frame::calculateMeanInformation" name="lsd_slam::Frame::calculateMeanInformation">
-<area shape="rect" id="node2" href="$dd/d08/classlsd__slam_1_1Frame.html#a0b26845d846249e909e6ab0adc022ebf" title="lsd_slam::Frame::maxGradients" alt="" coords="232,5,440,32"/>
-<area shape="rect" id="node3" href="$dd/d08/classlsd__slam_1_1Frame.html#aa3fb7f275b5da621c039a6746b905770" title="lsd_slam::Frame::idepthVar" alt="" coords="245,56,427,83"/>
-<area shape="rect" id="node4" href="$dd/d08/classlsd__slam_1_1Frame.html#a3f14a1c43b6cb21d31274f880b0bf36b" title="lsd_slam::Frame::width" alt="" coords="257,107,415,133"/>
-<area shape="rect" id="node5" href="$dd/d08/classlsd__slam_1_1Frame.html#a014d19bf6ffba0f0c0b8b684f9afb0b0" title="lsd_slam::Frame::height" alt="" coords="255,157,417,184"/>
-</map>

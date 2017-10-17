@@ -1,7 +1,0 @@
-<map id="GLTexPacked::DrawMargin" name="GLTexPacked::DrawMargin">
-<area shape="rect" id="node2" href="$da/d33/glew_8h.html#a98964453975519f92d6cc59ef77f7436" title="glBegin" alt="" coords="254,5,319,32"/>
-<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a3a21de74d8799ed05076a96998429d7b" title="glTexCoord2i" alt="" coords="237,56,336,83"/>
-<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a43e94a9a0586067872b96a8a790e60bc" title="glVertex2i" alt="" coords="247,107,327,133"/>
-<area shape="rect" id="node5" href="$da/d33/glew_8h.html#abbff207d1fa71b296ff35b149cef7238" title="glEnd" alt="" coords="259,157,314,184"/>
-<area shape="rect" id="node6" href="$da/d33/glew_8h.html#afb3e087fc26a916a909d46ead9cfc44a" title="glFlush" alt="" coords="255,208,319,235"/>
-</map>

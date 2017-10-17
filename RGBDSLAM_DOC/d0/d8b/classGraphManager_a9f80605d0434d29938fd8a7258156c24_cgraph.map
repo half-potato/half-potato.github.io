@@ -1,9 +1,0 @@
-<map id="GraphManager::renderToOctomap" name="GraphManager::renderToOctomap">
-<area shape="rect" id="node2" href="$d0/d8b/classGraphManager.html#a1c8c6572bc4dd18f271496bc7f0d549c" title="GraphManager::updateCloud\lOrigin" alt="" coords="273,5,461,46"/>
-<area shape="rect" id="node3" href="$d7/ddc/classColorOctomapServer.html#ac16ce374c11799891e316f637acbd2e7" title="ColorOctomapServer\l::insertCloudCallback" alt="" coords="293,147,440,189"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="950,147,1127,173"/>
-<area shape="rect" id="node6" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="965,289,1112,316"/>
-<area shape="rect" id="node8" href="$df/dd0/classNode.html#ade58f2370cb8542f4bc4c1350a3ba462" title="erase the points from the cloud to save memory " alt="" coords="290,391,443,417"/>
-<area shape="rect" id="node5" href="$d7/ddc/classColorOctomapServer.html#ab96bf80f442fcebd4e269b40dc31f841" title="ColorOctomapServer\l::insertCloudCallbackCommon" alt="" coords="509,198,709,239"/>
-<area shape="rect" id="node7" href="$d7/ddc/classColorOctomapServer.html#ac7cca7bcabafb3876d7ad4bb3a6b6c8f" title="Clear octomap and reset values to paramters from parameter server. " alt="" coords="757,223,901,265"/>
-</map>

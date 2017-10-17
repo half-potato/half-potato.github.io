@@ -1,6 +1,0 @@
-<map id="SiftParam" name="SiftParam">
-<area shape="rect" id="node2" href="$d4/dee/classSiftGPU.html" title="{SiftGPU\n|+ _timing\l# _current\l# _initialized\l# _image_loaded\l# _imgpath\l# _outpath\l# _list\l# _texImage\l# _pyramid\l|+ GetCurrentImagePath()\l+ SetImageList()\l+ GetFeatureNum()\l+ SaveSIFT()\l+ GetFeatureVector()\l+ SetKeypointList()\l+ CreateContextGL()\l+ VerifyContextGL()\l+ IsFullSupported()\l+ SetVerbose()\land 15 more...\l# InitSiftGPU()\l# LoadImageList()\l# PrintUsage()\l}" alt="" coords="74,353,243,738"/>
-<area shape="rect" id="node3" href="$d3/d80/classComboSiftGPU.html" title="{ComboSiftGPU\n||+ operator new()\l}" alt="" coords="16,831,132,908"/>
-<area shape="rect" id="node5" href="$d9/d69/classSiftGPUEX.html" title="{SiftGPUEX\n||+ SiftGPUEX()\l+ SetView()\l+ DisplaySIFT()\l+ ToggleDisplayDebug()\l+ RandomizeColor()\l+ GetImageDimension()\l+ GetInitWindowPotition()\l}" alt="" coords="158,787,329,952"/>
-<area shape="rect" id="node4" href="$d1/db7/classServerSiftGPU.html" title="{ServerSiftGPU\n||+ ServerSiftGPU()\l+ ~ServerSiftGPU()\l+ ParseParam()\l+ VerifyContextGL()\l+ RunSIFT()\l+ RunSIFT()\l+ RunSIFT()\l+ RunSIFT()\l+ AllocatePyramid()\l+ GetFeatureNum()\land 21 more...\l}" alt="" coords="5,1000,144,1224"/>
-</map>

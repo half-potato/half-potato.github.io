@@ -1,8 +1,0 @@
-<map id="GLTexImage::FitRealTexViewPort" name="GLTexImage::FitRealTexViewPort">
-<area shape="rect" id="node2" href="$d2/d55/classGlobalUtil.html#a30830c22f7574d8d6f5a5b0a0b31ad50" title="GlobalUtil::FitViewPort" alt="" coords="277,107,432,133"/>
-<area shape="rect" id="node3" href="$da/d33/glew_8h.html#ae9ebc290561b3321b629610807155a35" title="glGetIntegerv" alt="" coords="482,5,582,32"/>
-<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a8e93835e91933b7078c88f905dd8599c" title="glViewport" alt="" coords="491,56,573,83"/>
-<area shape="rect" id="node5" href="$da/d33/glew_8h.html#af14e38e22806d0220680b52edbc3bcef" title="glMatrixMode" alt="" coords="482,107,582,133"/>
-<area shape="rect" id="node6" href="$da/d33/glew_8h.html#a6577472f85b23086331edadaf0311a49" title="glLoadIdentity" alt="" coords="481,157,583,184"/>
-<area shape="rect" id="node7" href="$da/d33/glew_8h.html#a2d92120b1fad876057dfd00e2d942525" title="glOrtho" alt="" coords="500,208,564,235"/>
-</map>

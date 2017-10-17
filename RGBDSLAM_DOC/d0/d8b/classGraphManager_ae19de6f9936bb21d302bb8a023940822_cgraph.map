@@ -1,6 +1,0 @@
-<map id="GraphManager::GraphManager" name="GraphManager::GraphManager">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="510,5,687,32"/>
-<area shape="rect" id="node3" href="$d0/d8b/classGraphManager.html#a372079b96a4b36722f94a81fe79c278c" title="Instanciate the optimizer with the desired backend. " alt="" coords="254,31,461,57"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="525,68,672,95"/>
-<area shape="rect" id="node5" href="$d0/d8b/classGraphManager.html#a1a15a5816d3d8f8374f8bd69fe4d2a0b" title="Broadcast cached transform. " alt="" coords="253,133,461,174"/>
-</map>

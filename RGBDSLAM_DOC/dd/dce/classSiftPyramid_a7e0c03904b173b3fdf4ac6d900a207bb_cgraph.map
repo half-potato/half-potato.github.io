@@ -1,9 +1,0 @@
-<map id="SiftPyramid::RunSIFT" name="SiftPyramid::RunSIFT">
-<area shape="rect" id="node2" href="$d2/d55/classGlobalUtil.html#aaa5ebd526dfe13eb5eb61fee67c75a10" title="GlobalUtil::StartTimer" alt="" coords="206,5,354,32"/>
-<area shape="rect" id="node5" href="$d2/d55/classGlobalUtil.html#a6b0bb7a6fc3b0dcfcf22a3a00bb05a65" title="GlobalUtil::StopTimer" alt="" coords="207,56,353,83"/>
-<area shape="rect" id="node8" href="$d2/d55/classGlobalUtil.html#a4d0d910aba3a7cffc91c07ee8377f012" title="GlobalUtil::GetElapsedTime" alt="" coords="403,107,587,133"/>
-<area shape="rect" id="node3" href="$d9/d98/classClockTimer.html#a21afd83f68d30c08892743115f6ea9cd" title="ClockTimer::StartTimer" alt="" coords="415,5,574,32"/>
-<area shape="rect" id="node4" href="$d9/d98/classClockTimer.html#a23cf363d1025bb1a93951d9ccdabc639" title="ClockTimer::ClockMS" alt="" coords="657,31,807,57"/>
-<area shape="rect" id="node6" href="$d9/d98/classClockTimer.html#a7506d8fad1473bf4f3bdfb9e8590a6c3" title="ClockTimer::StopTimer" alt="" coords="416,56,573,83"/>
-<area shape="rect" id="node7" href="$d9/d98/classClockTimer.html#a5a6919057a81f4843619032cab692091" title="ClockTimer::GetElapsedTime" alt="" coords="635,81,829,108"/>
-</map>

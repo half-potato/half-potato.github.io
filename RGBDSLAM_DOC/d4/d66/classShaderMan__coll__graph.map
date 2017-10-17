@@ -1,5 +1,0 @@
-<map id="ShaderMan" name="ShaderMan">
-<area shape="rect" id="node2" href="$d9/d4e/classShaderBag.html" title="{ShaderBag\n|+ s_copy_key\l+ s_debug\l+ s_orientation\l+ s_display_dog\l+ s_display_grad\l+ s_sampling\l+ s_grad_pass\l+ s_dog_pass\l+ s_keypoint\l+ s_seperate_sp\l+ s_genlist_init_tight\l+ s_genlist_histo\l+ s_genlist_end\l+ _gaussian_step_num\l|+ SetGenListInitParam()\l+ SetGenListEndParam()\l+ SetMarginCopyParam()\l+ LoadDescriptorShader()\l+ SetFeatureDescirptorParam()\l+ SetFeatureOrientationParam()\l+ SetSimpleOrientationInput()\l+ LoadOrientationShader()\l+ SetGenListStartParam()\l+ LoadGenListShader()\land 13 more...\l}" alt="" coords="114,446,320,861"/>
-<area shape="rect" id="node3" href="$d9/d26/classProgramGPU.html" title="{ProgramGPU\n||+ UseProgram()\l+ GetProgramID()\l+ ~ProgramGPU()\l}" alt="" coords="5,5,133,112"/>
-<area shape="rect" id="node5" href="$d9/d9b/classFilterProgram.html" title="{FilterProgram\n|+ _size\l+ _id\l|+ FilterProgram()\l+ ~FilterProgram()\l}" alt="" coords="153,217,281,324"/>
-</map>

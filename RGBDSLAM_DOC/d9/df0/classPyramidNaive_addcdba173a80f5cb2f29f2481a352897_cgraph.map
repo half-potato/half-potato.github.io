@@ -1,9 +1,0 @@
-<map id="PyramidNaive::GetSimplifiedOrientation" name="PyramidNaive::GetSimplifiedOrientation">
-<area shape="rect" id="node2" href="$da/d33/glew_8h.html#a170c1426633472880793e711b06ef0df" title="glDrawBuffer" alt="" coords="300,5,399,32"/>
-<area shape="rect" id="node3" href="$d9/df0/classPyramidNaive.html#a17916545f7bf0fdcf14ccdc666aae852" title="PyramidNaive::GetLevelTexture" alt="" coords="245,56,453,83"/>
-<area shape="rect" id="node4" href="$d4/d24/classShaderMan.html#aef8f00aa7551450b7be004d633963c2a" title="ShaderMan::UseShaderSimple\lOrientation" alt="" coords="249,107,450,149"/>
-<area shape="rect" id="node7" href="$df/da6/classGLTexImage.html#af3929f0108cc3c43983c0fc952199869" title="GLTexImage::UnbindMultiTex" alt="" coords="251,173,447,200"/>
-<area shape="rect" id="node5" href="$d9/d26/classProgramGPU.html#acd625b26fa073fc83ec0be9badb29635" title="ProgramGPU::UseProgram" alt="" coords="520,56,701,83"/>
-<area shape="rect" id="node6" href="$d9/d4e/classShaderBag.html#a3e6d6e0c7217d4e38329695d1cc8839f" title="ShaderBag::SetSimpleOrientation\lInput" alt="" coords="502,107,719,149"/>
-<area shape="rect" id="node8" href="$da/d33/glew_8h.html#a940f58f3728713267a58e2d09ff602b2" title="glBindTexture" alt="" coords="559,173,662,200"/>
-</map>

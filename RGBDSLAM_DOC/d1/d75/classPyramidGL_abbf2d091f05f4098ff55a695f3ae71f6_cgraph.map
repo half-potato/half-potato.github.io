@@ -1,5 +1,0 @@
-<map id="PyramidGL::~PyramidGL" name="PyramidGL::~PyramidGL">
-<area shape="rect" id="node2" href="$d1/d75/classPyramidGL.html#a92b4b4dab4de07ae7f02c1d0959b19ae" title="PyramidGL::DestroyPerLevelData" alt="" coords="222,5,442,32"/>
-<area shape="rect" id="node3" href="$d1/d75/classPyramidGL.html#adc6406318be61159f882a2f73815e69b" title="PyramidGL::DestroySharedData" alt="" coords="227,56,437,83"/>
-<area shape="rect" id="node4" href="$d4/d24/classShaderMan.html#a9cd9ef75f7d708ca372bdf8b8f4173de" title="ShaderMan::DestroyShaders" alt="" coords="237,107,427,133"/>
-</map>

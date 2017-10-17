@@ -1,7 +1,0 @@
-<map id="GLTexImage::TexConvertRGB" name="GLTexImage::TexConvertRGB">
-<area shape="rect" id="node2" href="$d4/d24/classShaderMan.html#a3db8e7e25049e43d44256326cffe1384" title="ShaderMan::UseShaderRGB2Gray" alt="" coords="257,5,482,32"/>
-<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a170c1426633472880793e711b06ef0df" title="glDrawBuffer" alt="" coords="320,56,419,83"/>
-<area shape="rect" id="node5" href="$d4/d24/classShaderMan.html#a9e0bda881ceb8f67650029155d23c4aa" title="ShaderMan::UnloadProgram" alt="" coords="276,107,463,133"/>
-<area shape="rect" id="node3" href="$d9/d26/classProgramGPU.html#acd625b26fa073fc83ec0be9badb29635" title="ProgramGPU::UseProgram" alt="" coords="532,5,713,32"/>
-<area shape="rect" id="node6" href="$d9/d4e/classShaderBag.html#aacdddcf6984572013aec63a1d97b24b2" title="ShaderBag::UnloadProgram" alt="" coords="531,107,715,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="GLViewer::drawAxes" name="GLViewer::drawAxes">
-<area shape="rect" id="node2" href="$da/d33/glew_8h.html#a1beaf822e5a901dc3fe429b68efb77d4" title="glEnable" alt="" coords="209,5,281,32"/>
-<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a98964453975519f92d6cc59ef77f7436" title="glBegin" alt="" coords="213,56,278,83"/>
-<area shape="rect" id="node4" href="$da/d33/glew_8h.html#a8ac47f6bf1d1c4699a40b5458db28833" title="glLineWidth" alt="" coords="200,107,291,133"/>
-<area shape="rect" id="node5" href="$da/d33/glew_8h.html#ae9e165c507000556a24b1ce329aadd15" title="glColor4f" alt="" coords="208,157,283,184"/>
-<area shape="rect" id="node6" href="$da/d33/glew_8h.html#a9a95e17961303a80a5bf052b8c1cf677" title="glVertex3f" alt="" coords="205,208,286,235"/>
-<area shape="rect" id="node7" href="$da/d33/glew_8h.html#abbff207d1fa71b296ff35b149cef7238" title="glEnd" alt="" coords="218,259,273,285"/>
-</map>

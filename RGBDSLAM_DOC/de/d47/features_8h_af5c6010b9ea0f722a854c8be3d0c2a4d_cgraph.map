@@ -1,9 +1,0 @@
-<map id="createDetector" name="createDetector">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="681,69,858,96"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a283ff3ea4a3c4da048e3f5dee57c58f9" title="ParameterServer::set" alt="" coords="320,297,467,324"/>
-<area shape="rect" id="node4" href="$d9/dcb/features_8cpp.html#a7144c9e4d56007ab4d865d5b5a85161c" title="createDetector" alt="" coords="163,182,271,209"/>
-<area shape="rect" id="node5" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="696,196,843,222"/>
-<area shape="rect" id="node6" href="$d9/dcb/features_8cpp.html#a779e560dd940b0ca0afe382d4d7acd9e" title="adjustedGridWrapper" alt="" coords="321,44,465,70"/>
-<area shape="rect" id="node8" href="$d9/dcb/features_8cpp.html#a9e68ed636c5cdabac9a4bd5c84bfa836" title="adjusterWrapper" alt="" coords="515,145,632,172"/>
-<area shape="rect" id="node7" href="$d7/d5f/misc_8cpp.html#a8e7a4140590e8656e82d7c4734020815" title="round" alt="" coords="546,44,601,70"/>
-</map>

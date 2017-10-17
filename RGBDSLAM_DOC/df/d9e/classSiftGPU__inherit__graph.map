@@ -1,6 +1,0 @@
-<map id="SiftGPU" name="SiftGPU">
-<area shape="rect" id="node3" href="$d3/d80/classComboSiftGPU.html" title="{ComboSiftGPU\n||+ operator new()\l}" alt="" coords="16,831,132,908"/>
-<area shape="rect" id="node5" href="$d9/d69/classSiftGPUEX.html" title="{SiftGPUEX\n||+ SiftGPUEX()\l+ SetView()\l+ DisplaySIFT()\l+ ToggleDisplayDebug()\l+ RandomizeColor()\l+ GetImageDimension()\l+ GetInitWindowPotition()\l}" alt="" coords="158,787,329,952"/>
-<area shape="rect" id="node2" href="$dc/d5a/classSiftParam.html" title="{SiftParam\n|+ _sigma\l+ _sigma_skip0\l+ _sigma_skip1\l+ _sigma0\l+ _sigman\l+ _sigma_num\l+ _dog_level_num\l+ _level_num\l+ _level_min\l+ _level_max\l+ _level_ds\l+ _dog_threshold\l+ _edge_threshold\l|+ ParseSiftParam()\l+ GetLevelSigma()\l+ GetInitialSmoothSigma()\l+ SiftParam()\l}" alt="" coords="71,6,247,303"/>
-<area shape="rect" id="node4" href="$d1/db7/classServerSiftGPU.html" title="{ServerSiftGPU\n||+ ServerSiftGPU()\l+ ~ServerSiftGPU()\l+ ParseParam()\l+ VerifyContextGL()\l+ RunSIFT()\l+ RunSIFT()\l+ RunSIFT()\l+ RunSIFT()\l+ AllocatePyramid()\l+ GetFeatureNum()\land 21 more...\l}" alt="" coords="5,1000,144,1224"/>
-</map>

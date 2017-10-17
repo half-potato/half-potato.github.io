@@ -1,7 +1,0 @@
-<map id="lsd_slam::Frame::prepareForStereoWith" name="lsd_slam::Frame::prepareForStereoWith">
-<area shape="rect" id="node2" href="$d6/db5/classSophus_1_1Sim3GroupBase.html#a21debb906ffbeda23394fbddea8f3acd" title="Sophus::Sim3GroupBase\l::inverse" alt="" coords="225,5,394,46"/>
-<area shape="rect" id="node3" href="$d6/db5/classSophus_1_1Sim3GroupBase.html#aa65d0a5e41074a979e574bf6aac62694" title="Sophus::Sim3GroupBase\l::rotationMatrix" alt="" coords="225,70,394,111"/>
-<area shape="rect" id="node4" href="$d6/db5/classSophus_1_1Sim3GroupBase.html#a31cf579b7bc4d3b3358921f3501700cd" title="Sophus::Sim3GroupBase\l::scale" alt="" coords="225,135,394,177"/>
-<area shape="rect" id="node5" href="$de/d0b/classSophus_1_1Sim3Group.html#ace8b98b369832930e647675b8c005d64" title="Mutator of translation vector. " alt="" coords="236,201,383,242"/>
-<area shape="rect" id="node6" href="$dd/d08/classlsd__slam_1_1Frame.html#a6d38d40cd9a68d253bcb3cab2ddfa068" title="lsd_slam::Frame::id" alt="" coords="241,267,378,293"/>
-</map>

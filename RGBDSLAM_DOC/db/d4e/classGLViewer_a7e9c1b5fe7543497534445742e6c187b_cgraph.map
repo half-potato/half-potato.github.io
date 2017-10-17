@@ -1,6 +1,0 @@
-<map id="GLViewer::toggleStereo" name="GLViewer::toggleStereo">
-<area shape="rect" id="node2" href="$db/d4e/classGLViewer.html#a0bd4d0cdda2326b4adb5de427325dd67" title="GLViewer::resizeGL" alt="" coords="213,56,352,83"/>
-<area shape="rect" id="node3" href="$da/d33/glew_8h.html#a8e93835e91933b7078c88f905dd8599c" title="glViewport" alt="" coords="411,5,493,32"/>
-<area shape="rect" id="node4" href="$da/d33/glew_8h.html#af14e38e22806d0220680b52edbc3bcef" title="glMatrixMode" alt="" coords="402,56,502,83"/>
-<area shape="rect" id="node5" href="$da/d33/glew_8h.html#a6577472f85b23086331edadaf0311a49" title="glLoadIdentity" alt="" coords="401,107,503,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="GraphManager::saveAllCloudsToFile" name="GraphManager::saveAllCloudsToFile">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="510,5,687,32"/>
-<area shape="rect" id="node3" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="525,132,672,159"/>
-<area shape="rect" id="node4" href="$d4/d08/misc_8h.html#a7bd6e35e893b731601e2239721f03ae9" title="eigenTransf2TF" alt="" coords="301,107,414,133"/>
-<area shape="rect" id="node5" href="$d7/d5f/misc_8cpp.html#a0c6eb119f8697631e8a84dc0025bc3cc" title="Apply an affine transform defined by an Eigen Transform. " alt="" coords="253,56,461,83"/>
-<area shape="rect" id="node7" href="$df/dd0/classNode.html#ade58f2370cb8542f4bc4c1350a3ba462" title="erase the points from the cloud to save memory " alt="" coords="281,208,434,235"/>
-<area shape="rect" id="node6" href="$df/dbf/glviewer_8cpp.html#a4ad68a10344bb285bd6d3f1d8c56732a" title="squaredEuclideanDistance" alt="" coords="510,56,687,83"/>
-</map>

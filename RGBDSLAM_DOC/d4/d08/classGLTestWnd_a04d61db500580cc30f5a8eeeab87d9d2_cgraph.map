@@ -1,8 +1,0 @@
-<map id="GLTestWnd::GLTestWnd" name="GLTestWnd::GLTestWnd">
-<area shape="rect" id="node2" href="$d4/da2/classBasicTestWin.html#a7de7c7d5c6d8b529411e1771b9d95d33" title="BasicTestWin::ParseSiftParam" alt="" coords="225,56,429,83"/>
-<area shape="rect" id="node3" href="$d4/dee/classSiftGPU.html#ab50cd0cc4d3f46ede220221f6ca46498" title="SiftGPU::ParseParam" alt="" coords="494,5,645,32"/>
-<area shape="rect" id="node6" href="$d4/dee/classSiftGPU.html#a633d50e0393037aa8e9ba6af1d2f2431" title="SiftGPU::SetVerbose" alt="" coords="496,56,643,83"/>
-<area shape="rect" id="node7" href="$d9/d69/classSiftGPUEX.html#a04fd6be988ee634f97b40a9793054f73" title="SiftGPUEX::GetInitWindow\lPotition" alt="" coords="478,107,661,149"/>
-<area shape="rect" id="node4" href="$d2/d55/classGlobalUtil.html#a22689de5e558d891c11c8fec2e5c2931" title="GlobalUtil::SelectDisplay" alt="" coords="709,5,877,32"/>
-<area shape="rect" id="node5" href="$db/d82/wglew_8h.html#a7b84f5391331438359747d138a86ffe3" title="HDC" alt="" coords="926,5,978,32"/>
-</map>

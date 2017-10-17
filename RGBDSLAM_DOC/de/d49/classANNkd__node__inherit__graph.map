@@ -1,5 +1,0 @@
-<map id="ANNkd_node" name="ANNkd_node">
-<area shape="rect" id="node2" href="$d8/da9/classANNbd__shrink.html" title="{ANNbd_shrink\n||+ ANNbd_shrink()\l+ ~ANNbd_shrink()\l+ getStats()\l+ print()\l+ dump()\l+ ann_search()\l+ ann_pri_search()\l+ ann_FR_search()\l}" alt="" coords="5,219,139,399"/>
-<area shape="rect" id="node3" href="$dd/d04/classANNkd__leaf.html" title="{ANNkd_leaf\n||+ ANNkd_leaf()\l+ ~ANNkd_leaf()\l+ getStats()\l+ print()\l+ dump()\l+ ann_search()\l+ ann_pri_search()\l+ ann_FR_search()\l}" alt="" coords="163,219,297,399"/>
-<area shape="rect" id="node4" href="$dc/d0c/classANNkd__split.html" title="{ANNkd_split\n||+ ANNkd_split()\l+ ~ANNkd_split()\l+ getStats()\l+ print()\l+ dump()\l+ ann_search()\l+ ann_pri_search()\l+ ann_FR_search()\l}" alt="" coords="322,219,456,399"/>
-</map>

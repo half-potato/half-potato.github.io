@@ -1,8 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$dc/dca/namespacelsd__slam.html#a0c6488bcb7e77ab97cae5c9db84ef819" title="lsd_slam::dynConfCb" alt="" coords="138,5,286,32"/>
-<area shape="rect" id="node3" href="$dc/dca/namespacelsd__slam.html#a1727ed6a6a3b9b25505843d48cee74b5" title="lsd_slam::dynConfCbDebug" alt="" coords="119,56,305,83"/>
-<area shape="rect" id="node4" href="$da/d27/classlsd__slam_1_1InputImageStream.html#a6e8bce6255dabfb4556e4fac8390a6b0" title="lsd_slam::InputImageStream\l::setCalibration" alt="" coords="117,107,307,149"/>
-<area shape="rect" id="node5" href="$da/d27/classlsd__slam_1_1InputImageStream.html#a54d88ab343986e2a8f17d1ff5f5901be" title="lsd_slam::InputImageStream::run" alt="" coords="105,173,319,200"/>
-<area shape="rect" id="node6" href="$da/d27/classlsd__slam_1_1InputImageStream.html#aae9c5e1689761e9ea6f9f4ce8682e8f1" title="lsd_slam::InputImageStream\l::width" alt="" coords="117,225,307,266"/>
-<area shape="rect" id="node7" href="$da/d27/classlsd__slam_1_1InputImageStream.html#ab9a42e4ab63c80b7e0ba629ec689b7fa" title="lsd_slam::InputImageStream\l::height" alt="" coords="117,290,307,331"/>
-</map>

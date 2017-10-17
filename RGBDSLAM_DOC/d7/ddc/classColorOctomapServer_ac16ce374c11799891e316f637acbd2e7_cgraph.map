@@ -1,6 +1,0 @@
-<map id="ColorOctomapServer::insertCloudCallback" name="ColorOctomapServer::insertCloudCallback">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="641,33,818,60"/>
-<area shape="rect" id="node3" href="$d7/ddc/classColorOctomapServer.html#ab96bf80f442fcebd4e269b40dc31f841" title="ColorOctomapServer\l::insertCloudCallbackCommon" alt="" coords="200,59,400,101"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="656,121,803,148"/>
-<area shape="rect" id="node5" href="$d7/ddc/classColorOctomapServer.html#ac7cca7bcabafb3876d7ad4bb3a6b6c8f" title="Clear octomap and reset values to paramters from parameter server. " alt="" coords="448,85,592,126"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="GraphManager::saveAllFeatures" name="GraphManager::saveAllFeatures">
-<area shape="rect" id="node2" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="281,5,458,32"/>
-<area shape="rect" id="node3" href="$d0/d8b/classGraphManager.html#a9996aba706567d865661dd88646c442c" title="Transform all feature positions to global coordinates and save them together with the belonging descr..." alt="" coords="265,57,474,98"/>
-<area shape="rect" id="node4" href="$d4/d08/misc_8h.html#a7bd6e35e893b731601e2239721f03ae9" title="eigenTransf2TF" alt="" coords="523,64,637,91"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="point_information_matrix" name="point_information_matrix">
-<area shape="rect" id="node2" href="$de/dd9/misc2_8h.html#a9fd104b651d76a0fd52bc23c6588e71f" title="depth_covariance" alt="" coords="219,31,343,57"/>
-<area shape="rect" id="node3" href="$de/dd9/misc2_8h.html#a44186cfabec64587c7bc742ae9dab267" title="depth_std_dev" alt="" coords="392,31,499,57"/>
-<area shape="rect" id="node4" href="$d3/d3e/classParameterServer.html#a5457f900e543c5a466bf9b65ee6bc577" title="ParameterServer::instance" alt="" coords="547,5,725,32"/>
-<area shape="rect" id="node5" href="$d3/d3e/classParameterServer.html#a3c8af50664e423b555bbb1874f488413" title="ParameterServer::get" alt="" coords="563,56,709,83"/>
-</map>

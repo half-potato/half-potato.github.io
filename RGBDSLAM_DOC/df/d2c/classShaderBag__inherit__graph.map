@@ -1,4 +1,0 @@
-<map id="ShaderBag" name="ShaderBag">
-<area shape="rect" id="node2" href="$d5/d94/classShaderBagGLSL.html" title="{ShaderBagGLSL\n||+ SetMarginCopyParam()\l+ SetSimpleOrientationInput()\l+ LoadOrientationShader()\l+ LoadDescriptorShaderF2()\l+ LoadDescriptorShader()\l+ SetFeatureOrientationParam()\l+ SetFeatureDescirptorParam()\l+ SetGenListInitParam()\l+ SetGenListStartParam()\l+ LoadGenListShader()\land 8 more...\l+ WriteOrientationCodeToStream()\l+ LoadGenListStepShader()\l}" alt="" coords="5,424,228,677"/>
-<area shape="rect" id="node3" href="$db/db0/classShaderBagPKSL.html" title="{ShaderBagPKSL\n||+ ShaderBagPKSL()\l+ ~ShaderBagPKSL()\l+ LoadFixedShaders()\l+ LoadDisplayShaders()\l+ LoadOrientationShader()\l+ SetGenListStartParam()\l+ LoadGenListShader()\l+ UnloadProgram()\l+ LoadKeypointShader()\l+ LoadDescriptorShader()\land 11 more...\l+ LoadDescriptorProgramRECT()\l+ LoadDescriptorProgramPKSL()\l}" alt="" coords="253,424,469,677"/>
-</map>
